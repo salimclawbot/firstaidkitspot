@@ -4,8 +4,8 @@ export default function PrivacyPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 space-y-4">
       <h1 className="text-3xl font-bold">Privacy Policy</h1>
-      <p><strong>Last updated:</strong> March 10, 2026</p>
-      <p>Air Fryer Oven Guide (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) operates this website. This policy explains how we collect, use, and protect your information.</p>
+      <p><strong>Last updated:</strong> March 11, 2026</p>
+      <p>Office Chair Picks (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) operates this website. This policy explains how we collect, use, and protect your information.</p>
 
       <h2 className="text-xl font-semibold">Information We Collect</h2>
       <ul className="list-disc pl-6 space-y-1">
@@ -32,7 +32,7 @@ export default function PrivacyPage() {
       <p>You may request access, correction, or deletion of your personal data where applicable law provides such rights.</p>
 
       <h2 className="text-xl font-semibold">Contact</h2>
-      <p>Email: <a className="text-cyan-700 underline" href="mailto:privacy@airpurifierguide.com">privacy@airpurifierguide.com</a></p>
+      <p>Email: <a className="text-blue-700 underline" href="mailto:privacy@officechairpicks.vercel.app">privacy@officechairpicks.vercel.app</a></p>
     </div>
   );
 }

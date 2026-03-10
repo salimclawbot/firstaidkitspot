@@ -29,7 +29,7 @@ function toSlug(text: string): string {
 function parseJsonField(value: unknown): Record<string, unknown> | null {
   if (!value || typeof value !== "string") return null;
   try {
-    const normalized = value.replaceAll("https://airfryerovenguide.com", "https://airfryerovenguide.com");
+    const normalized = value.replaceAll("https://airfryerovenguide.com", "https://officechairpicks.vercel.app");
     return JSON.parse(normalized);
   } catch {
     return null;
@@ -56,9 +56,9 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
   const title = (data.title as string) || slug;
-  const description = (data.meta_description as string) || "Air fryer toaster oven guide article.";
-  const author = (data.author as string) || "Dr. Alex Chen";
-  const date = (data.datePublished as string) || "2026-03-10";
+  const description = (data.meta_description as string) || "Office chair buying guide article.";
+  const author = (data.author as string) || "Dr. James Holloway, Ergonomics Consultant";
+  const date = (data.datePublished as string) || "2026-03-11";
   const dateModified = (data.dateModified as string) || date;
   const category = "Guide";
 

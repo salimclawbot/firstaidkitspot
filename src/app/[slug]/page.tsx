@@ -14,13 +14,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: { absolute: article.title },
     description: article.description,
-    alternates: { canonical: `https://airfryerovenguide.com/${article.slug}` },
+    alternates: { canonical: `https://officechairpicks.vercel.app/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://airfryerovenguide.com/${article.slug}`,
+      url: `https://officechairpicks.vercel.app/${article.slug}`,
       type: "article",
-      siteName: "Air Fryer Oven Guide",
+      siteName: "Office Chair Picks",
     },
   };
 }
@@ -36,15 +36,15 @@ export default async function ArticlePage({ params }: PageProps) {
       "@type": "Article",
       headline: article.title,
       description: article.description,
-      author: { "@type": "Person", name: article.author || "Dr. Alex Chen" },
+      author: { "@type": "Person", name: article.author || "Dr. James Holloway, Ergonomics Consultant" },
       publisher: {
         "@type": "Organization",
-        name: "Air Fryer Oven Guide",
-        logo: { "@type": "ImageObject", url: "https://airfryerovenguide.com/icon.svg" },
+        name: "Office Chair Picks",
+        logo: { "@type": "ImageObject", url: "https://officechairpicks.vercel.app/icon.svg" },
       },
       datePublished: article.date,
       dateModified: article.dateModified,
-      mainEntityOfPage: { "@type": "WebPage", "@id": `https://airfryerovenguide.com/${article.slug}` },
+      mainEntityOfPage: { "@type": "WebPage", "@id": `https://officechairpicks.vercel.app/${article.slug}` },
     };
 
   return (
@@ -53,9 +53,9 @@ export default async function ArticlePage({ params }: PageProps) {
       {article.faqSchema && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(article.faqSchema) }} />
       )}
-      <p className="text-xs font-semibold uppercase tracking-wide text-cyan-700">{article.category}</p>
+      <p className="text-xs font-semibold uppercase tracking-wide text-blue-700">{article.category}</p>
       <h1 className="mt-2 text-3xl sm:text-4xl font-extrabold text-slate-900">{article.title}</h1>
-      <p className="mt-3 text-slate-600">By Dr. Alex Chen · Updated {article.dateModified}</p>
+      <p className="mt-3 text-slate-600">By {article.author} · Updated {article.dateModified}</p>
       <div className="prose prose-slate max-w-none mt-8" dangerouslySetInnerHTML={{ __html: article.htmlContent }} />
     </article>
   );

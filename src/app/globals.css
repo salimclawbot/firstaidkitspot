@@ -34,7 +34,7 @@ body {
   margin-bottom: 0.75rem;
   color: #111827;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #ccfbf1;
+  border-bottom: 2px solid #dbeafe;
 }
 
 .prose h3 {
@@ -51,13 +51,13 @@ body {
 }
 
 .prose a {
-  color: #0d9488;
+  color: #2563eb;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
 .prose a:hover {
-  color: #0f766e;
+  color: #1d4ed8;
 }
 
 .prose ul,
@@ -100,12 +100,12 @@ body {
 }
 
 .prose thead th {
-  background-color: #f0fdfa;
+  background-color: #eff6ff;
   padding: 0.75rem 1rem;
   text-align: left;
   font-weight: 600;
-  color: #0f766e;
-  border-bottom: 2px solid #14b8a6;
+  color: #1d4ed8;
+  border-bottom: 2px solid #60a5fa;
 }
 
 .prose tbody td {
@@ -118,7 +118,7 @@ body {
 }
 
 .prose blockquote {
-  border-left: 4px solid #14b8a6;
+  border-left: 4px solid #60a5fa;
   padding-left: 1rem;
   margin: 1.5rem 0;
   color: #6b7280;
@@ -132,7 +132,7 @@ body {
 
 .cta-button {
   display: inline-block;
-  background-color: #0d9488;
+  background-color: #2563eb;
   color: white !important;
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
@@ -143,7 +143,7 @@ body {
 }
 
 .cta-button:hover {
-  background-color: #0f766e;
+  background-color: #1d4ed8;
 }
 
 @media (max-width: 768px) {
