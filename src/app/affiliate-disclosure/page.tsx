@@ -1,4 +1,4 @@
-export const metadata = { title: "Affiliate Disclosure" };
+export const metadata = { title: "Affiliate Disclosure", alternates: { canonical: "https://firstaidkitspot.com/affiliate-disclosure" } };
 
 export default function AffiliateDisclosurePage() {
   return (
@@ -6,7 +6,7 @@ export default function AffiliateDisclosurePage() {
       <h1 className="text-3xl font-bold">Affiliate Disclosure</h1>
       <p><strong>Last updated:</strong> March 11, 2026</p>
       <p>
-        Office Chair Picks is reader-supported. We may earn a commission when you buy through certain links on this site.
+        First Aid Kit Spot is reader-supported. We may earn a commission when you buy through certain links on this site.
         This comes at no additional cost to you.
       </p>
 
@@ -35,7 +35,7 @@ export default function AffiliateDisclosurePage() {
       </p>
 
       <h2 className="text-xl font-semibold">Contact</h2>
-      <p>Email: <a className="text-blue-700 underline" href="mailto:editorial@officechairpicks.vercel.app">editorial@officechairpicks.vercel.app</a></p>
+      <p>Email: <a className="text-blue-700 underline" href="mailto:editorial@First Aid Kit Spot">editorial@First Aid Kit Spot</a></p>
     </div>
   );
 }

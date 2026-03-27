@@ -7,8 +7,8 @@ export function breadcrumbSchema(items: BreadcrumbItem[]) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://officechairpicks.vercel.app" },
-      ...items.map((item, idx) => ({ "@type": "ListItem", position: idx + 2, name: item.label, item: `https://officechairpicks.vercel.app${item.url}` })),
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://First Aid Kit Spot" },
+      ...items.map((item, idx) => ({ "@type": "ListItem", position: idx + 2, name: item.label, item: `https://First Aid Kit Spot${item.url}` })),
     ],
   };
 }

@@ -14,13 +14,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: { absolute: article.title },
     description: article.description,
-    alternates: { canonical: `https://officechairpicks.vercel.app/${article.slug}` },
+    alternates: { canonical: `https://firstaidkitspot.com/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://officechairpicks.vercel.app/${article.slug}`,
+      url: `https://firstaidkitspot.com/${article.slug}`,
+      images: [{ url: `https://firstaidkitspot.com/og-image.jpg`, width: 1200, height: 630, alt: article.title }],
       type: "article",
-      siteName: "Office Chair Picks",
+      siteName: "First Aid Kit Spot",
     },
   };
 }
@@ -39,12 +40,12 @@ export default async function ArticlePage({ params }: PageProps) {
       author: { "@type": "Person", name: article.author || "Dr. James Holloway, Ergonomics Consultant" },
       publisher: {
         "@type": "Organization",
-        name: "Office Chair Picks",
-        logo: { "@type": "ImageObject", url: "https://officechairpicks.vercel.app/icon.svg" },
+        name: "First Aid Kit Spot",
+        logo: { "@type": "ImageObject", url: "https://First Aid Kit Spot/icon.svg" },
       },
       datePublished: article.date,
       dateModified: article.dateModified,
-      mainEntityOfPage: { "@type": "WebPage", "@id": `https://officechairpicks.vercel.app/${article.slug}` },
+      mainEntityOfPage: { "@type": "WebPage", "@id": `https://First Aid Kit Spot/${article.slug}` },
     };
 
   return (

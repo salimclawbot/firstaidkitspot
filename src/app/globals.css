@@ -161,3 +161,103 @@ body {
     font-size: 1.25rem;
   }
 }
+
+/* Responsive images — prevent overflow */
+img, .prose img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ============================
+   MOBILE RESPONSIVE FIX — images, figures, tables
+   Applied across all article content
+   ============================ */
+.prose img,
+.prose figure img,
+article img,
+.article-content img {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+
+.prose figure,
+article figure,
+.article-content figure {
+  max-width: 100% !important;
+  overflow: hidden !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  box-sizing: border-box;
+}
+
+/* Table scroll wrapper */
+.prose table,
+article table,
+.article-content table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+}
+
+/* Ensure no child element creates horizontal overflow */
+.prose > *,
+.prose p,
+.prose li,
+.prose blockquote {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Product & Content Card Grid Styles */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.product-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: #fff;
+}
+
+@media (max-width: 640px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.room-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.room-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.meal-plan {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.day-card {
+  border-left: 4px solid #3b82f6;
+  padding: 1rem 1.5rem;
+  background: #f8fafc;
+  border-radius: 0 8px 8px 0;
+}
+

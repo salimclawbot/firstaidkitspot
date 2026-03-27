@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.firstaidkitspot.com"
+        }
+      ],
+      "destination": "https://firstaidkitspot.com/:path*",
+      "permanent": true
+    }
+  ]
+}

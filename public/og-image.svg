@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#1e293b"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#3b82f6"/>
+  <text x="600" y="280" text-anchor="middle" font-family="system-ui, sans-serif" font-size="52" font-weight="700" fill="#ffffff">First Aid Kit Spot</text>
+  <text x="600" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#94a3b8">Expert Guides &amp; Reviews</text>
+</svg>
