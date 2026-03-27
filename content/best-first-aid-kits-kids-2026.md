@@ -30,14 +30,14 @@ image: "/images/articles/best-first-aid-kits-kids-2026-hero.jpg"
 <div class="toc">
 <ol>
 <li><a href="#why-kids-need-dedicated-first-aid-kits">Why Kids Need Dedicated First Aid Kits</a></li>
-<li><a href="#best-first-aid-kits-for-kids-reviewed">Best First Aid Kits for Kids (2026 Reviews)</a></li>
+<li><a href="#best-first-aid-kits-for-kids-2026-reviews">Best First Aid Kits for Kids (2026 Reviews)</a></li>
 <li><a href="#product-comparison-table">Product Comparison Table</a></li>
-<li><a href="#what-should-be-in-a-kit">What Should Be in a Kids' First Aid Kit?</a></li>
-<li><a href="#how-to-choose">How to Choose the Right Kit for Your Family</a></li>
-<li><a href="#maintaining-kits">Maintaining and Restocking Your Kit</a></li>
-<li><a href="#teaching-kids">Teaching Kids First Aid Safety</a></li>
-<li><a href="#faq-kids-kits">Frequently Asked Questions</a></li>
-<li><a href="#sources">Sources & Methodology</a></li>
+<li><a href="#what-should-be-in-a-kids-first-aid-kit">What Should Be in a Kids' First Aid Kit?</a></li>
+<li><a href="#how-to-choose-the-right-kit-for-your-family">How to Choose the Right Kit for Your Family</a></li>
+<li><a href="#maintaining-and-restocking-your-kit">Maintaining and Restocking Your Kit</a></li>
+<li><a href="#teaching-kids-first-aid-safety">Teaching Kids First Aid Safety</a></li>
+<li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+<li><a href="#sources--methodology">Sources & Methodology</a></li>
 </ol>
 </div>
 
@@ -48,6 +48,8 @@ image: "/images/articles/best-first-aid-kits-kids-2026-hero.jpg"
 Every parent knows that children are walking experiments in how far the human body can bend, bruise, and bleed. Between playground tumbles, sports injuries, kitchen accidents, and the occasional "I wonder what happens if I..." moment, kids face injury scenarios that adults simply do not encounter as frequently.
 
 A dedicated kids' first aid kit is not a luxury—it is a necessity. Unlike adult kits, child-focused kits include supplies scaled to smaller bodies, medications dosed for pediatric patients, and safety features designed with curious hands in mind. Pre-made adult kits often contain supplies that are too large for a child's scrape, medications that are too strong for a small body, or sharp tools that pose unnecessary risk.
+
+![Five colorful first aid kits compared side by side](/images/articles/product-first-aid-only-kids-kit.jpg)
 
 ![A well-organized kids' first aid kit with colorful bandages, safety scissors, and child-friendly supplies laid out neatly](/images/articles/kids-first-aid-essential-supplies.jpg)
 
@@ -246,6 +248,14 @@ The [Swiss Safe Kids' 2-in-1](https://www.amazon.com/s?k=Swiss+Safe+kids+first+a
 ## What Should Be in a Kids' First Aid Kit?
 
 Whether you purchase a pre-made kit or customize one to your family's needs, the American Academy of Pediatrics and American Red Cross recommend these essentials:
+
+### Product Images
+
+![Swiss Safe 2-in-1 Kids First Aid Kit set](/images/articles/product-swiss-safe-2-in-1-kit.jpg)
+
+![MyMedic Pediatric first aid supplies organized](/images/articles/product-mymedic-pediatric.jpg)
+
+![Tender Care compact travel kit](/images/articles/product-tender-care-travel.jpg)
 
 ### Wound Care Supplies
 
