@@ -18,7 +18,13 @@ const components = {
   h3: (props: any) => <h3 className="text-xl font-bold mt-6 mb-2" {...props} />,
   h4: (props: any) => <h4 className="text-lg font-semibold mt-5 mb-2" {...props} />,
   p: (props: any) => <p className="mb-4 leading-relaxed" {...props} />,
-  a: (props: any) => <a className="text-blue-600 hover:underline" {...props} />,
+  a: (props: any) => {
+    // Force amazon links to render properly
+    if (props.href && props.href.includes("amazon.com")) {
+      return <a className="text-blue-600 hover:underline" target="_blank" rel="noopener" {...props} />;
+    }
+    return <a className="text-blue-600 hover:underline" {...props} />;
+  },
   img: (props: any) => (
     <figure className="my-6">
       <img {...props} className="rounded-lg max-w-full h-auto" />
@@ -68,6 +74,12 @@ export default function ArticleContent({ article }: ArticleContentProps) {
 
   // Remove schema blocks from rendered content
   contentWithoutSchemas = contentWithoutSchemas.replace(/```json\n[\s\S]*?\n```\n?/g, "");
+  
+  // Ensure Amazon links are properly converted to HTML anchors
+  contentWithoutSchemas = contentWithoutSchemas.replace(
+    /\[([^\]]+)\]\((https?:\/\/[^\)]*amazon[^\)]*)\)/g,
+    '<a href="$2" target="_blank" rel="noopener">$1</a>'
+  );
 
   return (
     <>
