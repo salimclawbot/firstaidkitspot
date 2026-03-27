@@ -1,16 +1,24 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import { getAllSlugs, getArticle } from "@/lib/articles";
+import { getAllSlugs, getArticleBySlug } from "@/lib/articles";
+
 export const metadata: Metadata = {
   title: "Best First Aid Kits & Supplies (2026): Expert-Tested Picks",
   description: "Expert-reviewed first aid kits for home, car and outdoor use in 2026. Find the best emergency kit with our detailed buyer guides, checklists and comparisons.",
   alternates: { canonical: "https://firstaidkitspot.com" },
 };
-export default async function HomePage() {
+
+export default function HomePage() {
   const slugs = getAllSlugs();
-  const articles = (await Promise.all(slugs.map(s => getArticle(s)))).filter(Boolean);
-      return (
-    <main className="max-w-4xl mx-auto px-4 py-12"><img src="/images/first-aid-kit-hero.jpg" alt="Best first aid kits 2026 - expert tested picks" style={{width:"100%",maxHeight:"380px",objectFit:"cover",borderRadius:"12px",marginBottom:"1.5rem"}} />
+  const articles = slugs.map(s => getArticleBySlug(s)).filter(Boolean);
+
+  return (
+    <main className="max-w-4xl mx-auto px-4 py-12">
+      <img 
+        src="/images/first-aid-kit-hero.jpg" 
+        alt="Best first aid kits 2026 - expert tested picks" 
+        style={{width:"100%",maxHeight:"380px",objectFit:"cover",borderRadius:"12px",marginBottom:"1.5rem"}} 
+      />
       <h1 className="mb-4 text-4xl font-bold text-slate-900">Best First Aid Kits & Supplies (2026): Expert-Tested Picks</h1>
       <p className="mb-12 text-xl text-slate-600">Expert-reviewed picks for home, car and outdoor emergencies.</p>
       <div className="grid gap-6">
@@ -35,6 +43,6 @@ export default async function HomePage() {
           ]
         })}}
       />
-      </main>
+    </main>
   );
 }
