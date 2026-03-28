@@ -514,9 +514,9 @@ All product recommendations are based on editorial evaluation of build quality, 
 
 ## Visual Guide Gallery
 
-![first aid kit checklist 2026 visual 1](/images/articles/first-aid-kit-checklist-2026-gallery-1.jpg)
-![first aid kit checklist 2026 visual 2](/images/articles/first-aid-kit-checklist-2026-gallery-2.jpg)
-![first aid kit checklist 2026 visual 3](/images/articles/first-aid-kit-checklist-2026-gallery-3.jpg)
-![first aid kit checklist 2026 visual 4](/images/articles/first-aid-kit-checklist-2026-gallery-4.jpg)
-![first aid kit checklist 2026 visual 5](/images/articles/first-aid-kit-checklist-2026-gallery-5.jpg)
-![first aid kit checklist 2026 visual 6](/images/articles/first-aid-kit-checklist-2026-gallery-6.jpg)
+![best first aid kits for kids 2026 visual 1](/images/articles/best-first-aid-kits-for-kids-2026-gallery-1.jpg)
+![best first aid kits for kids 2026 visual 2](/images/articles/best-first-aid-kits-for-kids-2026-gallery-2.jpg)
+![best first aid kits for kids 2026 visual 3](/images/articles/best-first-aid-kits-for-kids-2026-gallery-3.jpg)
+![best first aid kits for kids 2026 visual 4](/images/articles/best-first-aid-kits-for-kids-2026-gallery-4.jpg)
+![best first aid kits for kids 2026 visual 5](/images/articles/best-first-aid-kits-for-kids-2026-gallery-5.jpg)
+![best first aid kits for kids 2026 visual 6](/images/articles/best-first-aid-kits-for-kids-2026-gallery-6.jpg)
