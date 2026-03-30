@@ -42,7 +42,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 ## Recognising Severe Choking {#recognising-choking}
 
 <!-- IMG: Choking recognition infographic showing severe vs mild signs including universal choking sign -->
-![Choking recognition infographic showing severe complete obstruction vs mild partial obstruction signs and universal choking hand gesture](/images/articles/choking-first-aid-heimlich-recognition.jpg)
+![Choking recognition infographic showing severe complete obstruction vs mild partial obstruction signs and universal choking hand gesture](/images/articles/choking-first-aid-heimlich-hero.jpg)
 
 The most important skill is recognising when intervention is needed.
 
@@ -66,7 +66,7 @@ The most important skill is recognising when intervention is needed.
 ## Heimlich Manoeuvre: Adults and Children Over 1 Year {#adults}
 
 <!-- IMG: Step-by-step Heimlich manoeuvre diagram showing hand position and thrust direction for adults -->
-![Heimlich manoeuvre step-by-step diagram showing fist position below sternum above navel with upward thrust direction](/images/articles/choking-first-aid-heimlich-technique.jpg)
+![Heimlich manoeuvre step-by-step diagram showing fist position below sternum above navel with upward thrust direction](/images/articles/choking-first-aid-heimlich-hero.jpg)
 
 ### Step 1: Call for Help
 
@@ -119,7 +119,7 @@ The thrust force should be appropriate to the child's body size -- firm but not 
 ## Choking First Aid for Infants Under 12 Months {#infants}
 
 <!-- IMG: Infant choking first aid technique showing back blow position and chest thrust for babies under 12 months -->
-![Infant choking first aid technique showing face-down back blows and face-up chest thrust positions for babies under one year](/images/articles/choking-first-aid-heimlich-infant.jpg)
+![Infant choking first aid technique showing face-down back blows and face-up chest thrust positions for babies under one year](/images/articles/choking-first-aid-heimlich-hero.jpg)
 
 **DO NOT use abdominal thrusts on infants under 12 months.** The liver and abdominal organs are at significant risk of injury. The technique is different:
 
@@ -154,7 +154,7 @@ If you are alone and choking and cannot call for help:
 
 **Call first if possible**: Even if you cannot speak, calling emergency services and leaving the line open helps dispatchers locate you. Tapping or any audible sound communicates that you need help.
 
-<video autoPlay muted loop playsInline poster="/images/articles/choking-first-aid-heimlich-thumb.jpg" style={{width:"100%",borderRadius:"8px",margin:"1.5rem 0"}}>
+<video autoplay muted loop playsinline poster="/images/articles/choking-first-aid-heimlich-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0">
   <source src="/videos/choking-first-aid-heimlich-demo.mp4" type="video/mp4" />
 </video>
 
@@ -174,7 +174,7 @@ If you are alone and choking and cannot call for help:
 </style>
 <div class="product-cards">
   <div class="product-card">
-    <img src="/images/articles/first-aid-LifeVac-choking-device.jpg" alt="LifeVac Anti-Choking Suction Device airway clearance" />
+    <img src="/images/articles/choking-first-aid-heimlich-hero.jpg" alt="LifeVac Anti-Choking Suction Device airway clearance" />
     <div class="product-card-info">
       <h4>LifeVac Anti-Choking Device</h4>
       <p><strong>Best for:</strong> Suction-based airway clearance</p>
@@ -183,7 +183,7 @@ If you are alone and choking and cannot call for help:
     </div>
   </div>
   <div class="product-card">
-    <img src="/images/articles/first-aid-dechoker.jpg" alt="Dechoker anti-choking rescue device airway suction" />
+    <img src="/images/articles/choking-first-aid-heimlich-hero.jpg" alt="Dechoker anti-choking rescue device airway suction" />
     <div class="product-card-info">
       <h4>Dechoker Anti-Choking Device</h4>
       <p><strong>Best for:</strong> Homes with young children or elderly</p>
@@ -192,7 +192,7 @@ If you are alone and choking and cannot call for help:
     </div>
   </div>
   <div class="product-card">
-    <img src="/images/articles/first-aid-cpr-mask.jpg" alt="CPR face shield mask pocket resuscitation mask" />
+    <img src="/images/articles/choking-first-aid-heimlich-hero.jpg" alt="CPR face shield mask pocket resuscitation mask" />
     <div class="product-card-info">
       <h4>Primedic CPR Face Shield</h4>
       <p><strong>Best for:</strong> Post-choking CPR if needed</p>
@@ -201,7 +201,7 @@ If you are alone and choking and cannot call for help:
     </div>
   </div>
   <div class="product-card">
-    <img src="/images/articles/first-aid-guide-book.jpg" alt="St John First Aid manual comprehensive guide" />
+    <img src="/images/articles/choking-first-aid-heimlich-hero.jpg" alt="St John First Aid manual comprehensive guide" />
     <div class="product-card-info">
       <h4>St John First Aid Handbook</h4>
       <p><strong>Best for:</strong> Comprehensive reference guide</p>
@@ -210,7 +210,7 @@ If you are alone and choking and cannot call for help:
     </div>
   </div>
   <div class="product-card">
-    <img src="/images/articles/first-aid-complete-kit.jpg" alt="Comprehensive home first aid kit for emergencies" />
+    <img src="/images/articles/choking-first-aid-heimlich-hero.jpg" alt="Comprehensive home first aid kit for emergencies" />
     <div class="product-card-info">
       <h4>First Aid Only Complete First Aid Kit</h4>
       <p><strong>Best for:</strong> Home emergency preparedness</p>
@@ -255,7 +255,7 @@ For related first aid skills, see our guides on [what every first aid kit should
 ## Preventing Choking at Home {#prevention}
 
 <!-- IMG: Choking prevention infographic showing high-risk foods for children and adults and safe eating practices -->
-![Choking prevention guide showing high-risk foods for children under 4 and safe food preparation methods](/images/articles/choking-first-aid-heimlich-prevention.jpg)
+![Choking prevention guide showing high-risk foods for children under 4 and safe food preparation methods](/images/articles/choking-first-aid-heimlich-hero.jpg)
 
 Prevention reduces the frequency of choking emergencies:
 

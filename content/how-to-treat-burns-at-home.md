@@ -46,7 +46,7 @@ faq_schema_removed: true
 
 Burns are among the most common household injuries in the United States, with over 486,000 burn injuries receiving medical treatment each year according to the American Burn Association. The majority of these — roughly 73% — occur at home, primarily in kitchens and bathrooms. Knowing how to treat minor burns correctly can prevent complications, reduce scarring, and save you an unnecessary trip to the emergency room.
 
-This guide walks you through evidence-based burn first aid: what works, what doesn't, and when a burn requires professional medical attention. If you don't have proper first aid supplies on hand, check our [first aid kit checklist](/first-aid-kit-checklist) to make sure you're prepared before an emergency happens.
+This guide walks you through evidence-based burn first aid: what works, what doesn't, and when a burn requires professional medical attention. If you don't have proper first aid supplies on hand, check our [first aid kit checklist](/first-aid-kit-checklist-2026) to make sure you're prepared before an emergency happens.
 
 ---
 

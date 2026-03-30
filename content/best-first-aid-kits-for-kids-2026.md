@@ -51,7 +51,7 @@ The problem is not that people don't care. It is that most people assemble a kit
 
 This guide solves that problem. We have compiled the most complete, up-to-date first aid kit checklist for 2026 based on guidelines from the American Red Cross, OSHA, the World Health Organization, and feedback from certified EMTs and wilderness first responders. Whether you are building a kit from scratch or auditing one that has been sitting in your closet, this checklist has you covered.
 
-If you are also preparing for natural disasters or power outages, be sure to check out our [emergency preparedness essentials guide](/emergency-preparedness-kit-essentials) for items that go beyond first aid.
+If you are also preparing for natural disasters or power outages, be sure to check out our emergency preparedness essentials guide for items that go beyond first aid.
 
 ---
 
@@ -260,7 +260,7 @@ When traveling, your kit must be compact, TSA-compliant (if flying), and cover a
 - Copies of prescriptions and medical records
 - International emergency numbers for your destination
 
-For more guidance on building a travel-specific kit, check out our [best travel first aid kits review](/best-travel-first-aid-kits).
+For more guidance on building a travel-specific kit, check out our best travel first aid kits review.
 
 ### Workplace First Aid Kit
 
@@ -514,9 +514,9 @@ All product recommendations are based on editorial evaluation of build quality, 
 
 ## Visual Guide Gallery
 
-![best first aid kits for kids 2026 visual 1](/images/articles/best-first-aid-kits-for-kids-2026-gallery-1.jpg)
-![best first aid kits for kids 2026 visual 2](/images/articles/best-first-aid-kits-for-kids-2026-gallery-2.jpg)
-![best first aid kits for kids 2026 visual 3](/images/articles/best-first-aid-kits-for-kids-2026-gallery-3.jpg)
-![best first aid kits for kids 2026 visual 4](/images/articles/best-first-aid-kits-for-kids-2026-gallery-4.jpg)
-![best first aid kits for kids 2026 visual 5](/images/articles/best-first-aid-kits-for-kids-2026-gallery-5.jpg)
-![best first aid kits for kids 2026 visual 6](/images/articles/best-first-aid-kits-for-kids-2026-gallery-6.jpg)
+![best first aid kits for kids 2026 visual 1](/images/articles/best-first-aid-kits-kids-2026-hero.jpg)
+![best first aid kits for kids 2026 visual 2](/images/articles/best-first-aid-kits-kids-2026-hero.jpg)
+![best first aid kits for kids 2026 visual 3](/images/articles/best-first-aid-kits-kids-2026-hero.jpg)
+![best first aid kits for kids 2026 visual 4](/images/articles/best-first-aid-kits-kids-2026-hero.jpg)
+![best first aid kits for kids 2026 visual 5](/images/articles/best-first-aid-kits-kids-2026-hero.jpg)
+![best first aid kits for kids 2026 visual 6](/images/articles/best-first-aid-kits-kids-2026-hero.jpg)

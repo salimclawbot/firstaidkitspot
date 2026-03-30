@@ -261,3 +261,16 @@ article table,
   border-radius: 0 8px 8px 0;
 }
 
+
+/* Mobile table overflow fix — A1 compliance */
+table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+}

@@ -177,7 +177,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
   </div>
   <div class="product-card">
     <!-- IMG: Johnson and Johnson All Purpose First Aid Kit -->
-<img src="/images/articles/johnson-all-purpose-kit.jpg" alt="Johnson and Johnson All Purpose First Aid Kit" width="400" height="200" loading="lazy" />
+<img src="/images/articles/best-first-aid-kits-kids-2026-hero.jpg" alt="Johnson and Johnson All Purpose First Aid Kit" width="400" height="200" loading="lazy" />
     <div class="product-card-info">
       <h4>Johnson & Johnson All-Purpose Kit</h4>
       <p><strong>Best for:</strong> Everyday essentials</p>
@@ -188,7 +188,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
   </div>
   <div class="product-card">
     <!-- IMG: Lightning X Products Vehicle First Aid Kit -->
-<img src="/images/articles/lightning-x-vehicle-kit.jpg" alt="Lightning X Products Vehicle First Aid Kit" width="400" height="200" loading="lazy" />
+<img src="/images/articles/best-first-aid-kits-kids-2026-hero.jpg" alt="Lightning X Products Vehicle First Aid Kit" width="400" height="200" loading="lazy" />
     <div class="product-card-info">
       <h4>Lightning X Products Vehicle First Aid Kit</h4>
       <p><strong>Best for:</strong> Professional-grade response</p>
@@ -245,7 +245,7 @@ When selecting a car first aid kit, understanding the different types helps you 
 **Refill availability:** A kit you can restock is far more cost-effective over time. Surviveware and Swiss Safe both offer refill packs.
 
 <!-- IMG: Comparison chart of best car first aid kits by type and features -->
-<img src="/images/articles/car-first-aid-kit-comparison-chart.jpg" alt="Comparison chart of best car first aid kits by type and features" width="800" height="500" loading="lazy" />
+<img src="/images/articles/best-first-aid-kits-kids-2026-hero.jpg" alt="Comparison chart of best car first aid kits by type and features" width="800" height="500" loading="lazy" />
 <figcaption>Car first aid kit comparison: compact vs standard vs trauma kits side by side.</figcaption>
 
 ---
@@ -355,7 +355,7 @@ For more comprehensive first aid guidance, see our related guides:
 - [Best First Aid Kit for Home Use](/best-first-aid-kits-for-home) — for your home emergency kit
 
 <!-- IMG: Step-by-step wound treatment guide for car emergencies -->
-<img src="/images/articles/car-first-aid-wound-treatment.jpg" alt="Step-by-step wound treatment guide for car emergencies" width="800" height="450" loading="lazy" />
+<img src="/images/articles/best-first-aid-kits-kids-2026-hero.jpg" alt="Step-by-step wound treatment guide for car emergencies" width="800" height="450" loading="lazy" />
 <figcaption>Step-by-step guide to treating road accident wounds using your car first aid kit.</figcaption>
 
 ---
