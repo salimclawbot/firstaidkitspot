@@ -11,6 +11,10 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 # What Every First Aid Kit Should Contain (Checklist 2026)
 
+<video autoplay muted loop playsinline poster="/images/articles/first-aid-kit-checklist-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/first-aid-kit-checklist-2026-demo.mp4" type="video/mp4">
+</video>
+
 **Every first aid kit should contain wound care supplies (bandages, gauze, antiseptic), medications (pain relievers, antihistamines), tools (scissors, tweezers, thermometer), protective gear (gloves, CPR mask), and emergency items (emergency blanket, flashlight). A well-stocked kit can mean the difference between a minor incident and a medical emergency — this 2026 checklist covers exactly what you need.**
 
 
