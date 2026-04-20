@@ -21,7 +21,6 @@ By Dr. Karen Walsh, Emergency Medicine Specialist · Last updated March 2026
 
 ![CPR being performed on an adult — rescuer positioning hands on center of chest](/images/articles/cpr-guide-hero.png)
 
-
 ---
 
 ## Table of Contents
@@ -63,7 +62,6 @@ If you are building a home emergency preparedness setup, make sure you also have
 
 ![Infographic showing cardiac arrest survival rates with and without bystander CPR](/images/articles/cpr-guide-survival-rates.png)
 
-
 ---
 
 ## When to Perform CPR
@@ -89,7 +87,6 @@ Not every medical emergency requires CPR. Performing CPR on someone who does not
 
 ![Decision flowchart for when to perform CPR — check responsiveness, breathing, and pulse](/images/articles/cpr-guide-decision-flowchart.png)
 
-
 ---
 
 ## Step-by-Step Adult CPR Guide
@@ -109,7 +106,6 @@ Once the scene is safe, approach the person and check for responsiveness:
 If the person does not respond to your shouting and tapping, they are unresponsive. Move immediately to Step 2.
 
 ![Rescuer checking responsiveness by tapping shoulders and shouting](/images/articles/cpr-guide-check-responsiveness.png)
-
 
 ### Step 2: Call 911
 
@@ -169,7 +165,6 @@ Chest compressions are the single most important component of CPR. High-quality 
 
 ![Correct hand placement for chest compressions — heel of hand on center of breastbone](/images/articles/cpr-guide-hand-placement.png)
 
-
 ### Step 6: Deliver Rescue Breaths
 
 After 30 compressions, deliver 2 rescue breaths:
@@ -195,7 +190,6 @@ After 30 compressions, deliver 2 rescue breaths:
 **Important:** Do not spend more than 10 seconds on rescue breaths. If you are struggling to get breaths in, return to compressions. Compressions are more important than breaths.
 
 ![Rescue breathing technique with CPR pocket mask barrier device](/images/articles/cpr-guide-rescue-breaths.png)
-
 
 ### Step 7: Continue CPR Cycles
 
@@ -245,7 +239,6 @@ Hands-Only CPR also dramatically increases the likelihood that a bystander will 
 
 ![Hands-only CPR demonstration — two hands on center of chest, no rescue breaths needed](/images/articles/cpr-guide-hands-only.png)
 
-
 ---
 
 ## Using an AED with CPR
@@ -293,7 +286,6 @@ Many states require AEDs in public buildings with a certain occupancy level. Loo
 - If the person has an implanted pacemaker or defibrillator (visible as a hard lump under the skin), place the AED pad at least 1 inch away from it.
 
 ![AED pad placement diagram showing correct positions on the chest](/images/articles/cpr-guide-aed-placement.png)
-
 
 ---
 
@@ -415,8 +407,6 @@ A small device placed on the chest during training that provides real-time feedb
 </div>
 
 For a complete guide to building your emergency supplies, including the CPR-specific items listed above, see our [what every first aid kit should contain](/what-every-first-aid-kit-should-contain) article and our [best first aid kits for home](/best-first-aid-kits-for-home) review.
-
-If you are also interested in keeping your home environment safe from airborne hazards, check out these [home health safety essentials](https://www.airpurifierreport.com/do-air-purifiers-help-with-covid) for a broader perspective on protecting your household.
 
 ---
 

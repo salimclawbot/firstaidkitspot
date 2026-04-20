@@ -3,14 +3,15 @@ import { notFound } from "next/navigation";
 import { getArticleBySlug, getAllSlugs } from "@/lib/articles";
 import ArticleContent from "@/components/ArticleContent";
 
-interface PageProps { params: { slug: string } }
+interface PageProps { params: Promise<{ slug: string }> }
 
 export async function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const article = getArticleBySlug(params.slug);
+  const { slug } = await params;
+  const article = getArticleBySlug(slug);
   if (!article) return { title: "Not Found" };
   
   const ogImage = article.image || "https://firstaidkitspot.com/og-image.jpg";
@@ -37,7 +38,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default async function ArticlePage({ params }: PageProps) {
-  const article = getArticleBySlug(params.slug);
+  const { slug } = await params;
+  const article = getArticleBySlug(slug);
   if (!article) notFound();
 
   return (

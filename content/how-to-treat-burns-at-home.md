@@ -210,7 +210,6 @@ The kitchen is the number one location for burn injuries in the home. According 
 - Open microwave containers and pot lids away from your face, tilting the far side up first
 - Keep a Class K fire extinguisher (rated for cooking oils) accessible in the kitchen
 - Never carry boiling pots of water across the kitchen — turn off the heat and wait, or use a colander in the sink
-- Ensure adequate ventilation when cooking with oil at high temperatures — poor air quality from cooking fumes is a separate health concern. For kitchen air quality, see the guides at [airpurifierreport.com](https://www.airpurifierreport.com) for recommendations on air purifiers that address cooking smoke and fumes
 
 ![Kitchen burn first aid: treating an oil splatter burn on the forearm](/images/articles/how-to-treat-burns-at-home-kitchen-oil-burn.jpg)
 *Kitchen oil burns require immediate 20-minute cool water treatment. Oil adheres to skin and causes deeper burns than water scalds.*

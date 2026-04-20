@@ -40,9 +40,7 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 ## Our Top Picks at a Glance
 
-
 ![Our Top Picks at a Glance](/images/best-first-aid-kits-for-home/firstaid-hero.jpg)
-
 
 Before we get into the deep dive, here is a quick summary of our recommendations depending on your household needs:
 
@@ -156,11 +154,9 @@ The [MyMedic MyFAK](https://www.amazon.com/s?k=MyMedic+MyFAK+first+aid+kit&tag=t
 
 [Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20)
 
-
 <video autoplay muted loop playsinline poster="/images/best-first-aid-kits-for-home/firstaid-hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-first-aid-kits-for-home-demo.mp4" type="video/mp4">
 </video>
-
 
 ---
 
@@ -423,4 +419,3 @@ This article contains affiliate links. If you purchase a product through one of 
 
 ---
 
-*Last updated: March 11, 2026. Prices and availability are subject to change. Always verify current pricing on the retailer's website before purchasing.*> **See also:** [Best air purifiers for home safety — protect from wildfire smoke and pollutants](https://airpurifierreport.com/best-air-purifier-for-pet-dander)
