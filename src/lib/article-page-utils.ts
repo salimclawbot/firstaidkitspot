@@ -17,15 +17,17 @@ function cleanText(value: unknown): string {
   return String(value || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
-function truncateAtWord(value: string, max: number): string {
+function truncateAtWord(value: string, max: number, suffix = ""): string {
   if (value.length <= max) return value;
-  const candidate = value.slice(0, max - 3);
+  const candidate = value.slice(0, max - suffix.length);
   const lastSpace = candidate.lastIndexOf(" ");
-  return (lastSpace > max * 0.72 ? candidate.slice(0, lastSpace) : candidate).replace(/[,:;.!?\s]+$/, "") + "...";
+  return (lastSpace > max * 0.72 ? candidate.slice(0, lastSpace) : candidate).replace(/[,:;.!?\s]+$/, "").replace(/\b(?:and|for|of|the|to|with)$/i, "").trim() + suffix;
 }
 
 export function normalizeMetaTitle(value: string | undefined): string {
-  return truncateAtWord(cleanText(value) || "Practical Editorial Guide", 46);
+  const title = cleanText(value) || "Practical Editorial Guide";
+  const lead = title.split(/:\s|\s(?:[-–—]|\|)\s|\s+\(/)[0].trim();
+  return lead.length >= 24 && lead.length <= 46 ? lead : truncateAtWord(title, 46);
 }
 
 export function normalizeMetaDescription(description: unknown, title = "This guide"): string {
@@ -34,7 +36,7 @@ export function normalizeMetaDescription(description: unknown, title = "This gui
   const fallback =
     subject +
     ": practical, carefully reviewed guidance, key considerations, and clear next steps to help readers make an informed decision.";
-  return truncateAtWord(clean.length >= 70 ? clean : (clean ? clean + " " : "") + fallback, 160);
+  return truncateAtWord(clean.length >= 70 ? clean : (clean ? clean + " " : "") + fallback, 160, ".");
 }
 
 export function buildKeywords(title: string, category?: string): string[] {
