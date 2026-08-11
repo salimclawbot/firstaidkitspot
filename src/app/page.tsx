@@ -3,10 +3,31 @@ import Link from "next/link";
 import { getAllSlugs, getArticleBySlug } from "@/lib/articles";
 
 export const metadata: Metadata = {
-  title: "Best First Aid Kits & Supplies (2026): Expert-Tested Picks",
-  description: "Expert-reviewed first aid kits for home, car and outdoor use in 2026. Find the best emergency kit with our detailed buyer guides, checklists and comparisons.",
+  title: "Best First Aid Kits & Supplies (2026): Compared",
+  description: "Compare first aid kits for home, car and outdoor use using published specifications, checklists and transparent selection criteria.",
   alternates: { canonical: "https://firstaidkitspot.com" },
-};
+
+  openGraph: {
+    title: "Best First Aid Kits & Supplies (2026): Compared",
+    description: "Compare first aid kits for home, car and outdoor use using published specifications, checklists and transparent selection criteria.",
+    url: "https://firstaidkitspot.com",
+    siteName: "First Aid Kit Spot",
+    type: "website",
+    images: [
+      {
+        url: "https://firstaidkitspot.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Best First Aid Kits & Supplies (2026): Specification-Based Picks",
+    description: "Research-informed first aid kits for home, car and outdoor use in 2026. Find the best emergency kit with our detailed buyer guides, checklists and comparisons.",
+    images: ["https://firstaidkitspot.com/editorial-hero.png"],
+  }};
 
 export default function HomePage() {
   const slugs = getAllSlugs();
@@ -15,12 +36,12 @@ export default function HomePage() {
   return (
     <main className="max-w-4xl mx-auto px-4 py-12">
       <img 
-        src="/images/first-aid-kit-hero.jpg" 
+        src="/editorial-hero.png" 
         alt="Best first aid kits 2026 - expert tested picks" 
         style={{width:"100%",maxHeight:"380px",objectFit:"cover",borderRadius:"12px",marginBottom:"1.5rem"}} 
       />
-      <h1 className="mb-4 text-4xl font-bold text-slate-900">Best First Aid Kits & Supplies (2026): Expert-Tested Picks</h1>
-      <p className="mb-12 text-xl text-slate-600">Expert-reviewed picks for home, car and outdoor emergencies.</p>
+      <h1 className="mb-4 text-4xl font-bold text-slate-900">Best First Aid Kits & Supplies (2026): Specification-Based Picks</h1>
+      <p className="mb-12 text-xl text-slate-600">Research-informed picks for home, car and outdoor emergencies.</p>
       <div className="grid gap-6">
         {articles.map((a) => a && (
           <Link key={a.slug} href={`/${a.slug}`} className="block rounded-xl border border-slate-200 p-6 transition-all hover:border-blue-600 hover:shadow-md">

@@ -96,7 +96,7 @@ The kit does not include medications — this is by design (to avoid expiry issu
 **Best for:** Families with children aged 0–12, home use and car travel.
 **Approximate price range:** $55–$75 AUD.
 
-> **Affiliate link:** [View the Red Cross Family First Aid Kit on Amazon (US)](https://www.amazon.com/dp/B00HK9G7WS?tag=theforge05-20) | [View on Amazon (AU)](https://www.amazon.com.au/dp/B00HK9G7WS?tag=doublefury-22)
+> **Affiliate link:** [View the Red Cross Family First Aid Kit on Amazon (US)](https://www.amazon.com/dp/B00HK9G7WS?tag=firstaidkitspot-20) | [View on Amazon (AU)](https://www.amazon.com/dp/B00HK9G7WS?tag=firstaidkitspot-20)
 
 ---
 
@@ -122,7 +122,7 @@ The kit does not include a thermometer or CPR mask. It also contains only adult-
 **Best for:** Budget-conscious families, home backup kit, large households.
 **Approximate price range:** $35–$50 AUD.
 
-> **Affiliate link:** [View First Aid Only 299-Piece Kit on Amazon (US)](https://www.amazon.com/dp/B07HXK1VTR?tag=theforge05-20) | [View on Amazon (AU)](https://www.amazon.com.au/dp/B07HXK1VTR?tag=doublefury-22)
+> **Affiliate link:** [View First Aid Only 299-Piece Kit on Amazon (US)](https://www.amazon.com/dp/B07HXK1VTR?tag=firstaidkitspot-20) | [View on Amazon (AU)](https://www.amazon.com/dp/B07HXK1VTR?tag=firstaidkitspot-20)
 
 ---
 
@@ -148,7 +148,7 @@ The kit is designed for ages 1–5, which means parents will need to upgrade to 
 **Best for:** Parents of toddlers aged 1–5, pram kit, grandparent's care kit.
 **Approximate price range:** $40–$55 AUD.
 
-> **Affiliate link:** [View tinyTitans Kids First Aid Kit on Amazon (US)](https://www.amazon.com/dp/B09K8YXHRS?tag=theforge05-20) | [View on Amazon (AU)](https://www.amazon.com.au/dp/B09K8YXHRS?tag=doublefury-22)
+> **Affiliate link:** [View tinyTitans Kids First Aid Kit on Amazon (US)](https://www.amazon.com/dp/B09K8YXHRS?tag=firstaidkitspot-20) | [View on Amazon (AU)](https://www.amazon.com/dp/B09K8YXHRS?tag=firstaidkitspot-20)
 
 ---
 
@@ -176,7 +176,7 @@ The kit does not include a child-specific CPR mask — only an adult-sized mask.
 **Best for:** Road trips, air travel, camping, active families, pram mounting.
 **Approximate price range:** $65–$85 AUD.
 
-> **Affiliate link:** [View MyMedic MyFAK on Amazon (US)](https://www.amazon.com/dp/B08T9H3V1K?tag=theforge05-20) | [View on Amazon (AU)](https://www.amazon.com.au/dp/B08T9H3V1K?tag=doublefury-22)
+> **Affiliate link:** [View MyMedic MyFAK on Amazon (US)](https://www.amazon.com/dp/B08T9H3V1K?tag=firstaidkitspot-20) | [View on Amazon (AU)](https://www.amazon.com/dp/B08T9H3V1K?tag=firstaidkitspot-20)
 
 ---
 
@@ -204,7 +204,7 @@ This is the most expensive kit in our review, and some families may find its out
 **Best for:** Rural and regional families, outdoor enthusiasts, bushfire-prone areas, families wanting maximum emergency preparedness.
 **Approximate price range:** $90–$120 AUD.
 
-> **Affiliate link:** [View Surviveware Small First Aid Kit on Amazon (US)](https://www.amazon.com/dp/B07Y8H3N1K?tag=theforge05-20) | [View on Amazon (AU)](https://www.amazon.com.au/dp/B07Y8H3N1K?tag=doublefury-22)
+> **Affiliate link:** [View Surviveware Small First Aid Kit on Amazon (US)](https://www.amazon.com/dp/B07Y8H3N1K?tag=firstaidkitspot-20) | [View on Amazon (AU)](https://www.amazon.com/dp/B07Y8H3N1K?tag=firstaidkitspot-20)
 
 ---
 

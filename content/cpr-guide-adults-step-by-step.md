@@ -3,10 +3,8 @@ title: "CPR Guide for Adults: Step-by-Step (2026)"
 description: "A complete step-by-step guide to performing CPR on adults, including hands-only CPR, using an AED, and common mistakes to avoid. Based on 2026 AHA and Red Cross guidelines."
 slug: "cpr-guide-adults-step-by-step"
 publishedAt: "2026-03-22"
-author: "Dr. Karen Walsh, Emergency Medicine Specialist"
+author: "First Aid Kit Spot Editorial Team"
 image: "/images/articles/cpr-guide-hero.png"
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"CPR Guide for Adults: Step-by-Step (2026)","description":"A complete step-by-step guide to performing CPR on adults, including hands-only CPR, using an AED, and common mistakes to avoid. Based on 2026 AHA and Red Cross guidelines.","author":{"@type":"Person","name":"Dr. Karen Walsh"},"publisher":{"@type":"Organization","name":"First Aid Kit Spot","url":"https://firstaidkitspot.com"},"datePublished":"2026-03-22","dateModified":"2026-03-22","mainEntityOfPage":{"@type":"WebPage","@id":"https://firstaidkitspot.com/cpr-guide-adults-step-by-step"},"image":"https://firstaidkitspot.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What Is CPR and Why It Matters","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/cpr-guide-adults-step-by-step for comprehensive information about what is cpr and why it matters."}},{"@type":"Question","name":"When to Perform CPR","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/cpr-guide-adults-step-by-step for comprehensive information about when to perform cpr."}},{"@type":"Question","name":"Step-by-Step Adult CPR Guide","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/cpr-guide-adults-step-by-step for comprehensive information about step-by-step adult cpr guide."}},{"@type":"Question","name":"Hands-Only CPR: When and How","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/cpr-guide-adults-step-by-step for comprehensive information about hands-only cpr: when and how."}},{"@type":"Question","name":"Using an AED with CPR","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/cpr-guide-adults-step-by-step for comprehensive information about using an aed with cpr."}},{"@type":"Question","name":"Common CPR Mistakes and How to Avoid Them","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/cpr-guide-adults-step-by-step for comprehensive information about common cpr mistakes and how to avoid them."}}]}'
 ---
 
 # CPR Guide for Adults: Step-by-Step (2026)
@@ -15,9 +13,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 *This article contains affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you. This helps us keep creating free, life-saving educational content. See our full [affiliate disclosure](/affiliate-disclosure).*
 
-By Dr. Karen Walsh, Emergency Medicine Specialist · Last updated March 2026
+By First Aid Kit Spot Editorial Team
 
-> **IMPORTANT DISCLAIMER:** This guide is for educational purposes only. It does not replace hands-on CPR training. Reading about CPR is valuable, but practicing on a mannequin under professional supervision is essential for building the muscle memory and confidence needed in a real emergency. Get certified through the [American Heart Association](https://www.heart.org) or [American Red Cross](https://www.redcross.org). Many local fire departments and community colleges also offer affordable CPR certification courses.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ![CPR being performed on an adult — rescuer positioning hands on center of chest](/images/articles/cpr-guide-hero.png)
 
@@ -41,7 +39,7 @@ By Dr. Karen Walsh, Emergency Medicine Specialist · Last updated March 2026
 - [When to Stop CPR](#when-to-stop-cpr)
 - [Essential CPR Supplies and Training Equipment](#essential-cpr-supplies-and-training-equipment)
 - [FAQs](#faqs)
-- [Author Bio](#author-bio)
+
 - [Sources and Methodology](#sources-and-methodology)
 
 ---
@@ -140,7 +138,7 @@ With the airway open, check for normal breathing for no more than 10 seconds:
 
 If the person is not breathing at all, or is only gasping (agonal breathing), they need CPR. Do not waste time — every second counts. Begin chest compressions immediately.
 
-<video autoplay muted loop playsinline poster="/images/articles/cpr-guide-video-thumb.png" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/cpr-guide-demo.mp4" type="video/mp4"></video>
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/cpr-guide-video-thumb.png" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/cpr-guide-demo.mp4" type="video/mp4"></video>
 
 ### Step 5: Begin Chest Compressions
 
@@ -371,37 +369,37 @@ Having the right supplies readily available — and practicing with proper train
 <div style="border:1px solid #e0e0e0;border-radius:12px;padding:1.25rem;background:#fafafa;">
 <strong>CPR Face Shield Masks (10-Pack)</strong><br>
 Single-use barrier devices with one-way valves that protect both rescuer and victim during rescue breathing. Compact enough to keep in a wallet, purse, car glove box, or first aid kit. Every household member should carry one.<br><br>
-<a href="https://www.amazon.com/s?k=CPR+Face+Shield+Mask+10+Pack&tag=theforge05-20">Check price on Amazon</a>
+<a href="https://www.amazon.com/s?k=CPR+Face+Shield+Mask+10+Pack&tag=firstaidkitspot-20">Check price on Amazon</a>
 </div>
 
 <div style="border:1px solid #e0e0e0;border-radius:12px;padding:1.25rem;background:#fafafa;">
 <strong>CPR Pocket Mask with Case</strong><br>
 A reusable, professional-grade CPR barrier with a one-way valve and oxygen inlet port. Provides a better seal and easier ventilation than flat face shields. Used by lifeguards, nurses, and first responders. Comes in a hard-shell carrying case.<br><br>
-<a href="https://www.amazon.com/s?k=CPR+Pocket+Mask+with+Case&tag=theforge05-20">Check price on Amazon</a>
+<a href="https://www.amazon.com/s?k=CPR+Pocket+Mask+with+Case&tag=firstaidkitspot-20">Check price on Amazon</a>
 </div>
 
 <div style="border:1px solid #e0e0e0;border-radius:12px;padding:1.25rem;background:#fafafa;">
 <strong>AED Trainer Device</strong><br>
 A training-only AED unit that simulates real AED operation with voice prompts, pad placement practice, and scenario modes. Essential for CPR classes, workplace training, and home practice. Does not deliver actual shocks.<br><br>
-<a href="https://www.amazon.com/s?k=AED+Trainer+Device&tag=theforge05-20">Check price on Amazon</a>
+<a href="https://www.amazon.com/s?k=AED+Trainer+Device&tag=firstaidkitspot-20">Check price on Amazon</a>
 </div>
 
 <div style="border:1px solid #e0e0e0;border-radius:12px;padding:1.25rem;background:#fafafa;">
 <strong>CPR Training Mannequin (Adult)</strong><br>
 Full-torso mannequin with realistic chest compression feedback — audible click when correct depth is reached. Allows practice of head-tilt chin-lift, rescue breaths, and compressions. Available in single-use lung bag models for group training.<br><br>
-<a href="https://www.amazon.com/s?k=CPR+Training+Mannequin+Adult&tag=theforge05-20">Check price on Amazon</a>
+<a href="https://www.amazon.com/s?k=CPR+Training+Mannequin+Adult&tag=firstaidkitspot-20">Check price on Amazon</a>
 </div>
 
 <div style="border:1px solid #e0e0e0;border-radius:12px;padding:1.25rem;background:#fafafa;">
 <strong>First Aid Kit with CPR Supplies</strong><br>
 A comprehensive first aid kit that includes a CPR pocket mask, nitrile gloves, trauma shears, and other emergency supplies alongside standard wound care items. Ideal for home, office, or vehicle. Look for kits that meet ANSI/ISEA Z308.1 standards.<br><br>
-<a href="https://www.amazon.com/s?k=First+Aid+Kit+with+CPR+Supplies&tag=theforge05-20">Check price on Amazon</a>
+<a href="https://www.amazon.com/s?k=First+Aid+Kit+with+CPR+Supplies&tag=firstaidkitspot-20">Check price on Amazon</a>
 </div>
 
 <div style="border:1px solid #e0e0e0;border-radius:12px;padding:1.25rem;background:#fafafa;">
 <strong>CPR Compression Feedback Device</strong><br>
 A small device placed on the chest during training that provides real-time feedback on compression depth, rate, and recoil. Some models connect to smartphone apps for tracking performance over time. Used in professional training programs.<br><br>
-<a href="https://www.amazon.com/s?k=CPR+Compression+Feedback+Device&tag=theforge05-20">Check price on Amazon</a>
+<a href="https://www.amazon.com/s?k=CPR+Compression+Feedback+Device&tag=firstaidkitspot-20">Check price on Amazon</a>
 </div>
 
 </div>
@@ -435,12 +433,6 @@ For adults, chest compressions should be at least 2 inches (5 centimeters) deep 
 
 **Is mouth-to-mouth still recommended during CPR?**
 Mouth-to-mouth (rescue breathing) is still part of full CPR training and is recommended for trained rescuers who are willing and able to provide it, especially for drowning victims, children, and prolonged cardiac arrest. However, for untrained bystanders or those unwilling to provide mouth-to-mouth, Hands-Only CPR (compressions only) is the recommended approach for witnessed adult cardiac arrest and has been shown to be nearly as effective in the first several minutes.
-
----
-
-## Author Bio
-
-**Dr. Karen Walsh** is a board-certified emergency medicine physician with over 18 years of clinical experience in Level I trauma centers. She serves as a medical advisor for several national CPR education programs and has trained thousands of healthcare professionals and lay rescuers in basic and advanced life support. Dr. Walsh is an active member of the American College of Emergency Physicians (ACEP) and a certified AHA instructor. She is passionate about making life-saving skills accessible to everyone through clear, evidence-based education.
 
 ---
 
@@ -544,7 +536,7 @@ All product recommendations are based on editorial evaluation of functionality, 
   "image": "/images/articles/cpr-guide-hero.png",
   "author": {
     "@type": "Person",
-    "name": "Dr. Karen Walsh",
+    "name": "First Aid Kit Spot Editorial Team",
     "jobTitle": "Emergency Medicine Specialist",
     "url": "https://firstaidkitspot.com"
   },

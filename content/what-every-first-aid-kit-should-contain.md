@@ -1,11 +1,9 @@
 ---
 title: "What Every First Aid Kit Should Contain"
 meta_description: "Complete 2026 first aid kit checklist with 40+ essential items. Expert-approved list of bandages, medications, tools, and supplies every home kit needs."
-author: "Dr. James Porter, Emergency Medicine Physician"
+author: "First Aid Kit Spot Editorial Team"
 datePublished: '2026-03-20'
 dateModified: '2026-03-20'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What are the 10 most important items in a first aid kit?","acceptedAnswer":{"@type":"Answer","text":"The 10 most important items are: adhesive bandages (assorted sizes), sterile gauze pads, antiseptic wipes, medical tape, disposable nitrile gloves, antibiotic ointment, pain reliever (acetaminophen or ibuprofen), tweezers, bandage scissors, and an emergency mylar blanket. These cover the vast majority of common household injuries."}},{"@type":"Question","name":"How often should you replace items in a first aid kit?","acceptedAnswer":{"@type":"Answer","text":"You should audit your first aid kit every 6 months. Check expiration dates on all medications, ointments, and antiseptic solutions. Replace any items that have been used, opened, or show signs of damage. Sterile items like gauze pads should be replaced if packaging is compromised."}},{"@type":"Question","name":"What medications should be in a home first aid kit?","acceptedAnswer":{"@type":"Answer","text":"A home first aid kit should include acetaminophen (Tylenol), ibuprofen (Advil), diphenhydramine (Benadryl) for allergic reactions, hydrocortisone cream 1% for itching and rashes, antibiotic ointment (Neosporin), antacid tablets, and personal prescription medications like an EpiPen if anyone in the household has severe allergies."}},{"@type":"Question","name":"What is the difference between a basic and comprehensive first aid kit?","acceptedAnswer":{"@type":"Answer","text":"A basic first aid kit contains 15-20 essential items for minor cuts, scrapes, and burns. A comprehensive kit contains 40+ items including splinting materials, CPR masks, hemostatic gauze for severe bleeding, a digital thermometer, instant cold packs, and an emergency blanket. For households with children or elderly family members, a comprehensive kit is strongly recommended."}},{"@type":"Question","name":"Do first aid kits expire?","acceptedAnswer":{"@type":"Answer","text":"First aid kits themselves do not expire, but many items inside them do. Medications typically expire within 1-3 years, antibiotic ointments within 2 years, and antiseptic solutions within 3 years. Adhesive bandages lose their stickiness over time, and sterile items are only sterile as long as the packaging remains sealed and undamaged."}},{"@type":"Question","name":"What should I add to a first aid kit for a family with small children?","acceptedAnswer":{"@type":"Answer","text":"For families with small children, add infant-dose pain reliever and fever reducer, a digital rectal thermometer, child-safe oral syringe for administering liquid medicine, calamine lotion for rashes, pediatric electrolyte packets, finger splints in small sizes, and a comfort item like a small stuffed animal to help calm an injured child."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"What Every First Aid Kit Should Contain: The Complete Checklist (2026)","description":"Complete 2026 first aid kit checklist with 40+ essential items. Expert-approved list of bandages, medications, tools, and supplies every home kit needs.","author":{"@type":"Person","name":"Dr. James Porter, Emergency Medicine Physician"},"publisher":{"@type":"Organization","name":"First Aid Kit Spot","logo":{"@type":"ImageObject","url":"https://firstaidkitspot.com/icon.svg"}},"datePublished":"2026-03-20","dateModified":"2026-03-20","mainEntityOfPage":{"@type":"WebPage","@id":"https://firstaidkitspot.com/what-every-first-aid-kit-should-contain"}}'
 ---
 
 # What Every First Aid Kit Should Contain: The Complete Checklist (2026)
@@ -14,7 +12,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 
 ![A well-stocked first aid kit open on a table showing organized compartments with bandages, gauze, antiseptic, scissors, gloves, and a thermometer](/images/articles/what-every-first-aid-kit-should-contain-hero.jpg)
 
-*By Dr. James Porter, Emergency Medicine Physician · Updated March 20, 2026*
+By First Aid Kit Spot Editorial Team
 
 ---
 
@@ -53,7 +51,7 @@ Whether you are building a first aid kit from scratch or auditing one that has b
 - ✅ Hemostatic gauze (QuikClot or equivalent)
 - ✅ Antiseptic wipes — individually wrapped (20 minimum)
 - ✅ Antiseptic solution — povidone-iodine or chlorhexidine
-- ✅ Antibiotic ointment — [triple antibiotic](https://www.amazon.com/s?k=triple+antibiotic+ointment+first+aid&tag=theforge05-20)
+- ✅ Antibiotic ointment — [triple antibiotic](https://www.amazon.com/s?k=triple+antibiotic+ointment+first+aid&tag=firstaidkitspot-20)
 - ✅ Sterile saline solution (500ml)
 - ✅ Butterfly closures
 - ✅ Moleskin for blisters
@@ -78,7 +76,7 @@ Whether you are building a first aid kit from scratch or auditing one that has b
 - ✅ Safety pins (assorted, 12 pack)
 - ✅ Instant cold packs (2 minimum)
 - ✅ CPR face shield or pocket mask
-- ✅ [Disposable nitrile gloves](https://www.amazon.com/s?k=disposable+nitrile+gloves&tag=theforge05-20) — 4 pairs minimum
+- ✅ [Disposable nitrile gloves](https://www.amazon.com/s?k=disposable+nitrile+gloves&tag=firstaidkitspot-20) — 4 pairs minimum
 - ✅ Emergency mylar blanket
 - ✅ Splinting materials (SAM splint or padded board splint)
 
@@ -115,7 +113,7 @@ The Johnson & Johnson All-Purpose Kit is the most widely recommended starter kit
 
 **What's missing:** No thermometer, no instant cold packs, no medications. You will need to supplement this kit with OTC medications and a few tools.
 
-<a href="https://www.amazon.com/s?k=Johnson+%26+Johnson+first+aid+kit&tag=theforge05-20" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#991b1b;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">Check Price on Amazon</a>
+<a href="https://www.amazon.com/s?k=Johnson+%26+Johnson+first+aid+kit&tag=firstaidkitspot-20" target="_blank" rel="nofollow noopener noreferrer sponsored" style="display:inline-block;background:#991b1b;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">Check Price on Amazon</a>
 
 </div>
 
@@ -133,7 +131,7 @@ This is one of the most complete kits available at an affordable price point. It
 
 **What's missing:** Medications still need to be added separately (no kit ships with OTC drugs). The case is bulkier than the J&J option.
 
-<a href="https://www.amazon.com/s?k=Be+Smart+Get+Prepared+first+aid+kit&tag=theforge05-20" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#991b1b;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">Check Price on Amazon</a>
+<a href="https://www.amazon.com/s?k=Be+Smart+Get+Prepared+first+aid+kit&tag=firstaidkitspot-20" target="_blank" rel="nofollow noopener noreferrer sponsored" style="display:inline-block;background:#991b1b;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">Check Price on Amazon</a>
 
 </div>
 
@@ -151,7 +149,7 @@ The Surviveware kit is the gold standard for organization. Labeled inner compart
 
 **What's missing:** The higher price point. But for a kit you are trusting to perform in a real emergency, the Surviveware justifies the cost.
 
-<a href="https://www.amazon.com/s?k=Surviveware+first+aid+kit&tag=theforge05-20" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#991b1b;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">Check Price on Amazon</a>
+<a href="https://www.amazon.com/s?k=Surviveware+first+aid+kit&tag=firstaidkitspot-20" target="_blank" rel="nofollow noopener noreferrer sponsored" style="display:inline-block;background:#991b1b;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin-top:0.5rem;">Check Price on Amazon</a>
 
 </div>
 
@@ -183,7 +181,7 @@ Watch a quick visual breakdown of the three most important categories in any fir
 
 ![First aid kit essentials video guide thumbnail showing organized supplies with checklist overlay](/images/articles/what-every-first-aid-kit-should-contain-video-thumb.jpg)
 
-<video autoplay muted loop playsinline poster="/images/articles/what-every-first-aid-kit-should-contain-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/what-every-first-aid-kit-should-contain-demo.mp4" type="video/mp4"></video>
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/what-every-first-aid-kit-should-contain-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/what-every-first-aid-kit-should-contain-demo.mp4" type="video/mp4"></video>
 
 ---
 
@@ -199,7 +197,7 @@ Avoid fabric bandages if anyone in the household has adhesive allergies. Hypoall
 
 ### Sterile Gauze Pads and Rolls
 
-For wounds too large for a bandage, [sterile gauze pads](https://www.amazon.com/s?k=sterile+gauze+pads+first+aid&tag=theforge05-20) are indispensable. Keep at least 10 pads in two sizes (3x3 and 4x4 inch). Gauze rolls in 2-inch and 4-inch widths allow you to wrap wounds on limbs, fingers, or the head.
+For wounds too large for a bandage, [sterile gauze pads](https://www.amazon.com/s?k=sterile+gauze+pads+first+aid&tag=firstaidkitspot-20) are indispensable. Keep at least 10 pads in two sizes (3x3 and 4x4 inch). Gauze rolls in 2-inch and 4-inch widths allow you to wrap wounds on limbs, fingers, or the head.
 
 Non-stick pads (Telfa pads) are a critical addition that most people overlook. Standard gauze can adhere to a wound as it dries, and removing it tears the wound open again. Non-stick pads prevent this entirely.
 
@@ -386,8 +384,8 @@ This checklist was compiled from the following authoritative sources:
 - **Mayo Clinic** — First Aid Kit: Stock Supplies That Can Save Lives
 - **CDC** — Emergency Preparedness and Response guidelines
 
-Product recommendations are based on hands-on evaluation, verified user reviews, and consultation with certified EMTs and emergency medicine physicians. All Amazon links include affiliate tags — purchasing through these links supports First Aid Kit Spot at no additional cost to you.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
-*Dr. James Porter is a board-certified emergency medicine physician with over 15 years of experience in trauma care and emergency preparedness education. He serves as a medical advisor for First Aid Kit Spot and has reviewed every product recommendation in this guide. His work focuses on making emergency preparedness accessible to everyday families.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

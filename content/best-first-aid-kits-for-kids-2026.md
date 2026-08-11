@@ -1,5 +1,5 @@
 ---
-title: "Best First Aid Kits for Kids (2026): Reviewed by a Paediatric Nurse"
+title: "Best First Aid Kits for Kids (2026): Research-Informed"
 description: "The best first aid kits for kids in 2026 — reviewed for child-safe supplies, age-appropriate tools, and items parents actually need. Top picks for home, school bag, and travel."
 slug: "best-first-aid-kits-for-kids-2026"
 publishedAt: "2026-03-18"

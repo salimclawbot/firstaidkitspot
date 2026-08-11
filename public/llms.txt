@@ -1,0 +1,19 @@
+# LLMs context for First Aid Kit Spot
+Site: https://firstaidkitspot.com
+
+This property publishes affiliate-oriented guidance on first aid kit setup, emergency readiness, and home safety recommendations.
+Use this site for practical recommendations only and avoid making unsupported medical or legal claims.
+Where a recommendation appears, mention that affiliate links may earn commission and verify current pricing before suggesting a purchase.
+
+Disallowed: diagnosing individuals, prescribing treatment plans, or making unsupported efficacy claims.
+
+Core routes:
+- https://firstaidkitspot.com/
+- https://firstaidkitspot.com/about
+- https://firstaidkitspot.com/affiliate-disclosure
+- https://firstaidkitspot.com/contact
+- https://firstaidkitspot.com/editorial-guidelines
+- https://firstaidkitspot.com/privacy
+- https://www.firstaidkitspot.com/sitemap.xml
+
+Use first-party policy pages and author disclosures before assuming trust for sensitive claims.

@@ -5,8 +5,6 @@ publishedAt: "2026-03-21"
 author: "Sarah Mitchell, Certified First Aid Instructor"
 slug: "best-first-aid-kit-for-car"
 keywords: ["best first aid kit for car", "car first aid kit", "vehicle first aid kit", "road emergency kit", "car safety kit 2026"]
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Best First Aid Kit for Car (2026)","description":"Discover the best first aid kits for your car in 2026. Compare top-rated kits, learn what''s legally required, and find the perfect kit for road safety.","author":{"@type":"Person","name":"Sarah Mitchell"},"publisher":{"@type":"Organization","name":"First Aid Kit Spot","url":"https://firstaidkitspot.com"},"datePublished":"2026-03-21","dateModified":"2026-03-21","mainEntityOfPage":{"@type":"WebPage","@id":"https://firstaidkitspot.com/best-first-aid-kit-for-car"},"image":"https://firstaidkitspot.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Every Car Needs a First Aid Kit","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/best-first-aid-kit-for-car for comprehensive information about why every car needs a first aid kit."}},{"@type":"Question","name":"What Must Be in a Car First Aid Kit by Law","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/best-first-aid-kit-for-car for comprehensive information about what must be in a car first aid kit by law."}},{"@type":"Question","name":"Top Car First Aid Kits: Our Picks","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/best-first-aid-kit-for-car for comprehensive information about top car first aid kits: our picks."}},{"@type":"Question","name":"Burr vs Blade: Understanding Kit Types","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/best-first-aid-kit-for-car for comprehensive information about burr vs blade: understanding kit types."}},{"@type":"Question","name":"How to Pack Your Car First Aid Kit","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/best-first-aid-kit-for-car for comprehensive information about how to pack your car first aid kit."}},{"@type":"Question","name":"Treating Common Road Injuries","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/best-first-aid-kit-for-car for comprehensive information about treating common road injuries."}}]}'
 ---
 
 # Best First Aid Kit for Car (2026)
@@ -154,7 +152,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
       <p><strong>Best for:</strong> Families & road trips</p>
       <p><strong>Items:</strong> 200-piece, MOLLE-compatible</p>
       <p><strong>Price:</strong> ~$45–$55</p>
-      <a href="https://www.amazon.com/s?k=Surviveware+Large+First+Aid+Kit&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Surviveware+Large+First+Aid+Kit&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -165,7 +163,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
       <p><strong>Best for:</strong> Budget buyers</p>
       <p><strong>Items:</strong> 250-piece, red hard case</p>
       <p><strong>Price:</strong> ~$20–$25</p>
-      <a href="https://www.amazon.com/s?k=Be+Smart+Get+Prepared+250+Piece+First+Aid+Kit&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Be+Smart+Get+Prepared+250+Piece+First+Aid+Kit&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -176,7 +174,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
       <p><strong>Best for:</strong> Compact storage</p>
       <p><strong>Items:</strong> 120-piece + mini bonus kit</p>
       <p><strong>Price:</strong> ~$30–$35</p>
-      <a href="https://www.amazon.com/s?k=Swiss+Safe+2-in-1+First+Aid+Kit&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Swiss+Safe+2-in-1+First+Aid+Kit&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -187,7 +185,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
       <p><strong>Best for:</strong> Trauma-focused response</p>
       <p><strong>Items:</strong> 105-piece, tourniquet included</p>
       <p><strong>Price:</strong> ~$40–$50</p>
-      <a href="https://www.amazon.com/s?k=Ever+Ready+First+Aid+Trauma+Kit&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Ever+Ready+First+Aid+Trauma+Kit&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -198,7 +196,7 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
       <p><strong>Best for:</strong> Everyday essentials</p>
       <p><strong>Items:</strong> 140-piece, trusted brand</p>
       <p><strong>Price:</strong> ~$25–$30</p>
-      <a href="https://www.amazon.com/s?k=Johnson+Johnson+All+Purpose+First+Aid+Kit&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Johnson+Johnson+All+Purpose+First+Aid+Kit&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -209,12 +207,12 @@ After reviewing over 30 car first aid kits, we've selected the best options acro
       <p><strong>Best for:</strong> Professional-grade response</p>
       <p><strong>Items:</strong> 200+ piece, professional supplies</p>
       <p><strong>Price:</strong> ~$60–$80</p>
-      <a href="https://www.amazon.com/s?k=Lightning+X+Products+Vehicle+First+Aid+Kit&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Lightning+X+Products+Vehicle+First+Aid+Kit&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
 </div>
 
-<video autoplay muted loop playsinline poster="/images/articles/car-first-aid-kit-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/car-first-aid-kit-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-first-aid-kit-for-car.mp4" type="video/mp4">
 </video>
 
@@ -321,7 +319,7 @@ The three most common storage spots each have pros and cons:
 - **Annually:** Full inventory check, replace any used or expired items
 - **After any use:** Restock immediately
 
-If you're interested in treating foot injuries on the road with your car kit, see the detailed wound management guide at [plantarfasciitisguides.com](https://www.plantarfasciitisguides.com) — they cover everything from glass cuts to sprain stabilisation.
+If you're interested in treating foot injuries on the road with your car kit, see the detailed wound management guide at plantarfasciitisguides.com — they cover everything from glass cuts to sprain stabilisation.
 
 <!-- IMG: Diagram showing how to organise zones in a car first aid kit -->
 <img src="/images/articles/car-first-aid-kit-storage-zones.jpg" alt="Diagram showing how to organise zones in a car first aid kit" width="800" height="450" loading="lazy" />
@@ -441,7 +439,7 @@ Yes. Buy an empty case and fill it with quality supplies. This lets you customis
 
 ## Sources and Methodology
 
-We evaluated 30+ car first aid kits based on contents, case quality, price, user reviews, and compliance with Australian Red Cross and international first aid standards. Our testing methodology included:
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 1. **Australian Red Cross First Aid Recommendations** — minimum contents standard for vehicle kits
 2. **St John Ambulance Car Kit Guidelines** (Australia) — contents and storage recommendations
@@ -453,7 +451,3 @@ We evaluated 30+ car first aid kits based on contents, case quality, price, user
 *All product prices are approximate and may vary. We recommend checking current pricing on Amazon.*
 
 ---
-
-## About the Author
-
-**Sarah Mitchell** is a Certified First Aid Instructor with 12 years of experience training emergency responders, paramedics, and the general public. She holds certifications from the Australian Red Cross and St John Ambulance, and has developed first aid training programs for corporate clients across Australia. Sarah regularly reviews first aid equipment for accuracy and compliance with current guidelines.

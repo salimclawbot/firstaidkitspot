@@ -1,4 +1,29 @@
-export const metadata = { title: "Affiliate Disclosure", alternates: { canonical: "https://firstaidkitspot.com/affiliate-disclosure" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = { title: "Affiliate Disclosure",
+  description: "First Aid Kit Spot is transparent about affiliate links and sponsorships, with clear disclosures for every sponsored recommendation.",
+  alternates: { canonical: "https://firstaidkitspot.com/affiliate-disclosure" },
+  openGraph: {
+    title: "Affiliate Disclosure",
+    description: "First Aid Kit Spot is transparent about affiliate links and sponsorships, with clear disclosures for every sponsored recommendation.",
+    url: "https://firstaidkitspot.com/affiliate-disclosure",
+    siteName: "First Aid Kit Spot",
+    type: "website",
+    images: [
+      {
+        url: "https://firstaidkitspot.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Affiliate Disclosure",
+    description: "First Aid Kit Spot is transparent about affiliate links and sponsorships, with clear disclosures for every sponsored recommendation.",
+    images: ["https://firstaidkitspot.com/editorial-hero.png"],
+  }};
 
 export default function AffiliateDisclosurePage() {
   return (

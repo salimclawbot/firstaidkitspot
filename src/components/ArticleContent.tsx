@@ -7,6 +7,33 @@ import rehypeSlug from "rehype-slug";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import { Article } from "@/lib/articles";
 
+const AFFILIATE_TAG = "firstaidkitspot-20";
+const TRACKING_PARAMS = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "gclid", "fbclid", "msclkid"];
+const YOUTUBE_HOST_RE = /(youtube\.com|youtu\.be|youtube-nocookie\.com)/i;
+
+function normalizeTrackingParams(rawHref: string): string {
+  try {
+    const parsed = new URL(rawHref);
+    TRACKING_PARAMS.forEach((param) => parsed.searchParams.delete(param));
+    return parsed.toString();
+  } catch {
+    return rawHref;
+  }
+}
+
+function normalizeAmazonUrl(rawHref: string): string {
+  try {
+    const parsed = new URL(rawHref);
+    if (!/amazon\./i.test(parsed.hostname) && !/amzn\.to/i.test(parsed.hostname)) {
+      return rawHref;
+    }
+    parsed.searchParams.set("tag", AFFILIATE_TAG);
+    return normalizeTrackingParams(parsed.toString());
+  } catch {
+    return rawHref;
+  }
+}
+
 interface ArticleContentProps {
   article: Article;
 }
@@ -19,26 +46,50 @@ const components = {
   h4: (props: any) => <h4 className="text-lg font-semibold mt-5 mb-2" {...props} />,
   p: (props: any) => <p className="mb-4 leading-relaxed" {...props} />,
   a: (props: any) => {
-    // Force amazon links to render properly
-    if (props.href && props.href.includes("amazon.com")) {
-      return <a className="text-blue-600 hover:underline" target="_blank" rel="noopener" {...props} />;
+    if (props.href && YOUTUBE_HOST_RE.test(props.href)) {
+      return <span className="text-xs text-slate-700">Video content moved here to keep the site YouTube-free.</span>;
+    }
+    const normalizedHref = props.href ? normalizeAmazonUrl(normalizeTrackingParams(props.href)) : "";
+    if (props.href && /amazon\./i.test(normalizedHref)) {
+      const { href, ...rest } = props;
+      const rel = new Set((props.rel ?? "").toString().split(/\s+/).filter(Boolean));
+      rel.add("nofollow");
+      rel.add("sponsored");
+      rel.add("noopener");
+      rel.add("noreferrer");
+      if (!rel.has("ugc")) rel.add("ugc");
+      return (
+        <a
+          className="text-blue-600 hover:underline"
+          href={normalizedHref}
+          rel={Array.from(rel).join(" ")}
+          target="_blank"
+          {...rest}
+        />
+      );
     }
     return <a className="text-blue-600 hover:underline" {...props} />;
   },
   img: (props: any) => (
     <figure className="my-6">
-      <img {...props} className="rounded-lg max-w-full h-auto" />
+      <img
+        {...props}
+        className="rounded-lg max-w-full h-auto"
+        loading="lazy"
+        decoding="async"
+        referrerPolicy="no-referrer"
+      />
       {props.alt && <figcaption className="text-sm text-gray-600 mt-2 text-center">{props.alt}</figcaption>}
     </figure>
   ),
   video: (props: any) => (
     <video
+      className="w-full rounded-lg my-6"
+      controls
+      preload="metadata"
+      muted
       {...props}
       style={{ width: "100%", borderRadius: "8px", margin: "1.5rem 0" }}
-      autoPlay
-      muted
-      loop
-      playsInline
     />
   ),
   table: (props: any) => (
@@ -78,7 +129,7 @@ export default function ArticleContent({ article }: ArticleContentProps) {
   // Ensure Amazon links are properly converted to HTML anchors
   contentWithoutSchemas = contentWithoutSchemas.replace(
     /\[([^\]]+)\]\((https?:\/\/[^\)]*amazon[^\)]*)\)/g,
-    '<a href="$2" target="_blank" rel="noopener">$1</a>'
+    (_match, text, href) => `<a href="${normalizeAmazonUrl(normalizeTrackingParams(href))}" target="_blank" rel="noopener noreferrer nofollow sponsored ugc">${text}</a>`
   );
 
   return (

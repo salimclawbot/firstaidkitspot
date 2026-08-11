@@ -10,7 +10,7 @@ faq_schema_removed: true
 
 **Disclosure:** First Aid Kit Spot may earn commissions from qualifying purchases. This does not influence our guidance.
 
-**By Editorial Team, reviewed by First Aid Certified Medical Advisors** · Last updated March 23, 2026
+**By Editorial Team, Research-Informed** · Last updated March 23, 2026
 
 **This is not a substitute for professional medical advice. Seek emergency medical care for severe burns. This guide covers first aid for minor burns only.**
 
@@ -37,7 +37,7 @@ faq_schema_removed: true
 
 ---
 
-<video autoplay muted loop playsinline style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/how-to-treat-burns-at-home-demo.mp4" type="video/mp4">
 </video>
 
@@ -349,31 +349,31 @@ Having the right supplies on hand before a burn occurs means faster, more effect
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Non-Stick Burn Dressings</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.75rem;">Telfa, Adaptic, or Mepitel non-stick wound dressings — critical for burns to prevent tearing healing tissue during dressing changes</p>
-    <a href="https://www.amazon.com/s?k=non+stick+sterile+burn+dressing+wound+care&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=non+stick+sterile+burn+dressing+wound+care&tag=firstaidkitspot-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Bacitracin Antibiotic Ointment</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.75rem;">Preferred over Neosporin for burns — Bacitracin reduces infection without the neomycin allergy risk. Apply thin layer before each dressing change.</p>
-    <a href="https://www.amazon.com/s?k=Bacitracin+antibiotic+ointment+wound+care&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=Bacitracin+antibiotic+ointment+wound+care&tag=firstaidkitspot-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Pure Aloe Vera Gel</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.75rem;">Pharmacy-grade 99% pure aloe vera gel (fragrance-free) provides anti-inflammatory relief for first-degree burns. Look for products with minimal additives.</p>
-    <a href="https://www.amazon.com/s?k=pure+aloe+vera+gel+burn+first+aid&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=pure+aloe+vera+gel+burn+first+aid&tag=firstaidkitspot-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Burn Gel with Lidocaine</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.75rem;">Water-based burn gels containing lidocaine provide immediate topical pain relief. Water Jel and Burnfree are widely used by EMS professionals.</p>
-    <a href="https://www.amazon.com/s?k=burn+gel+lidocaine+first+aid&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=burn+gel+lidocaine+first+aid&tag=firstaidkitspot-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Silicone Scar Sheets</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.75rem;">ScarAway or Mepiform medical-grade silicone sheets — the most evidence-supported OTC scar treatment. Apply to fully healed burns for 8-12 weeks.</p>
-    <a href="https://www.amazon.com/s?k=silicone+scar+sheets+burn+treatment&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=silicone+scar+sheets+burn+treatment&tag=firstaidkitspot-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
 </div>
@@ -386,13 +386,13 @@ To help you choose the right supplies, here's a direct comparison of the most ef
 
 | Product | Type | Best For | Key Feature | Approx. Price |
 |---|---|---|---|---|
-| **[Water Jel Burn Gel](https://www.amazon.com/s?k=Water+Jel+burn+gel+first+aid&tag=theforge05-20)** | Topical burn gel | Immediate pain relief after cooling | Water-based gel with lidocaine; used by firefighters and EMS; cools and soothes without trapping heat | $8-12 |
-| **[Telfa Non-Stick Pads](https://www.amazon.com/s?k=Telfa+non+stick+pads+wound+dressing&tag=theforge05-20)** | Non-adherent dressing | Covering burns during healing | Cotton pad with non-stick coating; won't tear new skin during removal; available in multiple sizes | $5-9 |
-| **[Bacitracin Zinc Ointment](https://www.amazon.com/s?k=Bacitracin+zinc+ointment+first+aid&tag=theforge05-20)** | Antibiotic ointment | Infection prevention | Single antibiotic (lower allergy risk than triple-antibiotic); proven effective for minor burn infection prevention | $4-7 |
-| **[Seven Minerals Aloe Vera Gel](https://www.amazon.com/s?k=Seven+Minerals+aloe+vera+gel+pure&tag=theforge05-20)** | Pure aloe gel | Soothing first-degree burns | 99% organic aloe vera; no added fragrance or color; provides anti-inflammatory and moisturizing benefit | $10-15 |
-| **[ScarAway Silicone Sheets](https://www.amazon.com/s?k=ScarAway+silicone+scar+sheets&tag=theforge05-20)** | Scar treatment | Post-healing scar reduction | Medical-grade silicone; clinically proven to flatten and fade scars; reusable sheets worn 12+ hours/day | $15-25 |
-| **[Burnfree Pain Relieving Gel](https://www.amazon.com/s?k=Burnfree+burn+gel+pain+relief&tag=theforge05-20)** | Emergency burn gel | First responder-grade treatment | Water-soluble gel with tea tree oil; stops burn progression; individually wrapped sachets ideal for kits | $10-18 |
-| **[Coban Self-Adherent Wrap](https://www.amazon.com/s?k=3M+Coban+self+adherent+wrap+bandage&tag=theforge05-20)** | Securing dressings | Holding burn dressings in place | Sticks to itself without adhesive — won't pull on burned skin. Flexible, breathable, easy to apply one-handed | $6-10 |
+| **[Water Jel Burn Gel](https://www.amazon.com/s?k=Water+Jel+burn+gel+first+aid&tag=firstaidkitspot-20)** | Topical burn gel | Immediate pain relief after cooling | Water-based gel with lidocaine; used by firefighters and EMS; cools and soothes without trapping heat | $8-12 |
+| **[Telfa Non-Stick Pads](https://www.amazon.com/s?k=Telfa+non+stick+pads+wound+dressing&tag=firstaidkitspot-20)** | Non-adherent dressing | Covering burns during healing | Cotton pad with non-stick coating; won't tear new skin during removal; available in multiple sizes | $5-9 |
+| **[Bacitracin Zinc Ointment](https://www.amazon.com/s?k=Bacitracin+zinc+ointment+first+aid&tag=firstaidkitspot-20)** | Antibiotic ointment | Infection prevention | Single antibiotic (lower allergy risk than triple-antibiotic); proven effective for minor burn infection prevention | $4-7 |
+| **[Seven Minerals Aloe Vera Gel](https://www.amazon.com/s?k=Seven+Minerals+aloe+vera+gel+pure&tag=firstaidkitspot-20)** | Pure aloe gel | Soothing first-degree burns | 99% organic aloe vera; no added fragrance or color; provides anti-inflammatory and moisturizing benefit | $10-15 |
+| **[ScarAway Silicone Sheets](https://www.amazon.com/s?k=ScarAway+silicone+scar+sheets&tag=firstaidkitspot-20)** | Scar treatment | Post-healing scar reduction | Medical-grade silicone; clinically proven to flatten and fade scars; reusable sheets worn 12+ hours/day | $15-25 |
+| **[Burnfree Pain Relieving Gel](https://www.amazon.com/s?k=Burnfree+burn+gel+pain+relief&tag=firstaidkitspot-20)** | Emergency burn gel | First responder-grade treatment | Water-soluble gel with tea tree oil; stops burn progression; individually wrapped sachets ideal for kits | $10-18 |
+| **[Coban Self-Adherent Wrap](https://www.amazon.com/s?k=3M+Coban+self+adherent+wrap+bandage&tag=firstaidkitspot-20)** | Securing dressings | Holding burn dressings in place | Sticks to itself without adhesive — won't pull on burned skin. Flexible, breathable, easy to apply one-handed | $6-10 |
 
 **Our recommendation:** At minimum, stock non-stick dressings, Bacitracin ointment, and a burn gel. The total cost is under $25 and covers the critical supplies for treating a minor burn effectively at home. A dedicated burn first aid kit that includes all of these supplies is included in our [CPR and first aid guide](/cpr-guide-adults-step-by-step) as part of our recommended emergency preparedness supplies.
 
@@ -440,20 +440,12 @@ Warning signs of burn infection include: increasing pain after 24 hours (it shou
 
 ## Sources and Methodology
 
-**Clinical References:**
-- Australian and New Zealand Burns Association (ANZBA): First Aid guidelines for burns — anzba.org.au
-- NHS: Burns and scalds first aid guide — nhs.uk
-- American Burn Association: Clinical practice guidelines — ameriburn.org
-- Wasiak J, et al. "Dressings for superficial and partial thickness burns." Cochrane Database of Systematic Reviews, 2013.
-- Cuttle L, et al. "A Systematic Review of First Aid Treatments for Burn Injuries." Burns, 2009; 35(6): 768-775.
-- Wood FM, et al. "Water First Aid is Beneficial in Humans Post-Burn: Evidence from a Bi-National Cohort Study." PLOS ONE, 2016.
-- National Fire Protection Association (NFPA): Home fire and burn injury statistics — nfpa.org
-- World Health Organization: Burns fact sheet — who.int
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Important Disclaimer:** This guide is for educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always seek emergency care for serious burns, and consult a healthcare professional if you have any concerns about a burn injury.
 
 ---
 
-*By Editorial Team, reviewed by First Aid Certified Medical Advisors*
+*By Editorial Team, Research-Informed*
 
 Last updated March 23, 2026.

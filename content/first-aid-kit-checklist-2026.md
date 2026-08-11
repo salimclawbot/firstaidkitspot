@@ -5,13 +5,11 @@ slug: "first-aid-kit-checklist-2026"
 publishedAt: "2026-03-18"
 author: "First Aid Kit Spot Editorial Team"
 image: "/images/first-aid-kit-checklist-2026-hero.jpg"
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"What Every First Aid Kit Should Contain (Checklist 2026)","description":"The definitive 2026 first aid kit checklist covering home, car, travel, and workplace kits. Includes printable list, product recommendations, and expert-backed guidance on building or upgrading your kit.","author":{"@type":"Person","name":"First Aid Kit Spot Editorial Team"},"publisher":{"@type":"Organization","name":"First Aid Kit Spot","url":"https://firstaidkitspot.com"},"datePublished":"2026-03-18","dateModified":"2026-03-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://firstaidkitspot.com/first-aid-kit-checklist-2026"},"image":"https://firstaidkitspot.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Every Household Needs an Updated First Aid Kit","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/first-aid-kit-checklist-2026 for comprehensive information about why every household needs an updated first aid kit."}},{"@type":"Question","name":"The Complete 2026 First Aid Kit Checklist","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/first-aid-kit-checklist-2026 for comprehensive information about the complete 2026 first aid kit checklist."}},{"@type":"Question","name":"Pre-Made vs. Custom First Aid Kits: Comparison","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/first-aid-kit-checklist-2026 for comprehensive information about pre-made vs. custom first aid kits: comparison."}},{"@type":"Question","name":"Best Pre-Made First Aid Kits to Buy in 2026","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/first-aid-kit-checklist-2026 for comprehensive information about best pre-made first aid kits to buy in 2026."}},{"@type":"Question","name":"First Aid Kit by Use Case","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/first-aid-kit-checklist-2026 for comprehensive information about first aid kit by use case."}},{"@type":"Question","name":"How to Organize Your First Aid Kit","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://firstaidkitspot.com/first-aid-kit-checklist-2026 for comprehensive information about how to organize your first aid kit."}}]}'
 ---
 
 # What Every First Aid Kit Should Contain (Checklist 2026)
 
-<video autoplay muted loop playsinline poster="/images/articles/first-aid-kit-checklist-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/first-aid-kit-checklist-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/first-aid-kit-checklist-2026-demo.mp4" type="video/mp4">
 </video>
 
@@ -198,7 +196,7 @@ This is the gold standard for comprehensive pre-made kits. It includes labeled c
 
 **Best for:** Home use, families, vehicle kits
 
-[Check price on Amazon](https://www.amazon.com/dp/B07D3R6GYF?tag=theforge05-20)
+[Check price on Amazon](https://www.amazon.com/dp/B07D3R6GYF?tag=firstaidkitspot-20)
 
 ### 2. MyFAK First Aid Kit by MyMedic
 
@@ -206,7 +204,7 @@ MyMedic kits are designed with input from EMTs and paramedics. The MyFAK include
 
 **Best for:** Outdoors, emergency preparedness, anyone who wants trauma-level supplies
 
-[Check price on Amazon](https://www.amazon.com/dp/B07BGXHFLN?tag=theforge05-20)
+[Check price on Amazon](https://www.amazon.com/dp/B07BGXHFLN?tag=firstaidkitspot-20)
 
 
 ### 3. Johnson & Johnson All-Purpose First Aid Kit (140 Pieces)
@@ -215,7 +213,7 @@ A reliable, affordable option for basic first aid needs. The J&J kit covers the 
 
 **Best for:** Budget-conscious buyers, secondary/backup kit, office or dorm use
 
-[Check price on Amazon](https://www.amazon.com/dp/B000059NWQ?tag=theforge05-20)
+[Check price on Amazon](https://www.amazon.com/dp/B000059NWQ?tag=firstaidkitspot-20)
 
 ---
 

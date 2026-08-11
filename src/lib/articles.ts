@@ -1,6 +1,6 @@
+import { safeMatter } from "@/lib/safe-matter";
 import fs from "fs";
 import path from "path";
-import matter from "gray-matter";
 
 const contentDirectory = path.join(process.cwd(), "content");
 
@@ -12,22 +12,22 @@ export interface Article {
   publishedAt: string;
   image: string;
   content: string;
-  frontmatter: any;
+  frontmatter: Record<string, unknown>;
 }
 
 export function getArticleBySlug(slug: string): Article | null {
   try {
     const filePath = path.join(contentDirectory, `${slug}.md`);
     const content = fs.readFileSync(filePath, "utf-8");
-    const { data, content: markdown } = matter(content);
+    const { data, content: markdown } = safeMatter(content);
 
     return {
       slug,
-      title: data.title,
-      description: data.description,
-      author: data.author,
-      publishedAt: data.publishedAt,
-      image: data.image,
+      title: String(data.title || slug),
+      description: String(data.description || `${slug.replace(/-/g, " ")} first aid guide.`),
+      author: "First Aid Kit Spot Editorial Team",
+      publishedAt: String(data.publishedAt || data.datePublished || "2026-01-01"),
+      image: String(data.image || "/editorial-hero.png"),
       content: markdown,
       frontmatter: data,
     };

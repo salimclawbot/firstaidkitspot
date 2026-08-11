@@ -6,8 +6,6 @@ author: "Sarah Mitchell, First Aid Instructor"
 date: "2026-03-25"
 dateModified: "2026-03-25"
 category: "First Aid"
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you perform the Heimlich manoeuvre?","acceptedAnswer":{"@type":"Answer","text":"For adults and children over 1 year: Stand behind the person, wrap your arms around their waist. Make a fist and place it thumb-side against the abdomen, just above the navel and below the breastbone. Cover your fist with your other hand. Give 5 firm upward thrusts. If the object is not expelled, repeat. Call emergency services (000 in Australia, 911 in USA) immediately if choking is severe."}},{"@type":"Question","name":"What do you do for a choking infant?","acceptedAnswer":{"@type":"Answer","text":"For infants under 12 months: do NOT use abdominal thrusts. Instead: 1) Hold baby face-down on your forearm, supporting the head. Give 5 firm back blows between the shoulder blades with the heel of your hand. 2) Turn baby face-up, support the head. Give 5 chest thrusts with 2 fingers on the lower half of the breastbone. 3) Check mouth and remove visible object if dislodged. 4) Repeat back blows and chest thrusts until the object is expelled or emergency services arrive."}},{"@type":"Question","name":"How do you help yourself if you are choking alone?","acceptedAnswer":{"@type":"Answer","text":"If alone and choking: 1) Make a fist and deliver upward thrusts to your own abdomen, or 2) Lean over a hard edge (chair back, countertop) and thrust your upper abdomen firmly against the edge. Call emergency services immediately if you have access to a phone -- even if you cannot speak, leaving the line open helps dispatchers locate you."}},{"@type":"Question","name":"When should you do back blows vs abdominal thrusts?","acceptedAnswer":{"@type":"Answer","text":"Current first aid guidelines (Australian Resuscitation Council, Red Cross) recommend alternating 5 back blows followed by 5 abdominal thrusts for adults and children over 1 year with severe choking. Some guidelines use only abdominal thrusts; the combined approach is gaining favour. Infants under 12 months receive ONLY back blows and chest thrusts -- abdominal thrusts are contraindicated."}},{"@type":"Question","name":"What is severe choking vs mild choking?","acceptedAnswer":{"@type":"Answer","text":"Severe choking (complete airway obstruction): Cannot speak, cannot cough effectively, cannot breathe, turning blue, making high-pitched sounds or no sound. Requires immediate intervention. Mild choking (partial obstruction): Can still cough, make some sound, breathe partially. Encourage forceful coughing. Do not interfere with abdominal thrusts if the person is coughing effectively -- let them clear the airway themselves."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Choking First Aid: How to Perform the Heimlich Manoeuvre","description":"Step-by-step guide to choking first aid for adults, children, and infants. Updated March 2026.","author":{"@type":"Person","name":"Sarah Mitchell","jobTitle":"First Aid Instructor"},"publisher":{"@type":"Organization","name":"First Aid Kit Spot","url":"https://firstaidkitspot.com"},"datePublished":"2026-03-25","dateModified":"2026-03-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://firstaidkitspot.com/choking-first-aid-heimlich"},"image":"https://firstaidkitspot.com/images/articles/choking-first-aid-heimlich-hero.jpg"}'
 ---
 
 *This post contains affiliate links. We may earn a commission at no extra cost to you.*
@@ -154,7 +152,7 @@ If you are alone and choking and cannot call for help:
 
 **Call first if possible**: Even if you cannot speak, calling emergency services and leaving the line open helps dispatchers locate you. Tapping or any audible sound communicates that you need help.
 
-<video autoplay muted loop playsinline poster="/images/articles/choking-first-aid-heimlich-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/choking-first-aid-heimlich-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0">
   <source src="/videos/choking-first-aid-heimlich-demo.mp4" type="video/mp4" />
 </video>
 
@@ -179,7 +177,7 @@ If you are alone and choking and cannot call for help:
       <h4>LifeVac Anti-Choking Device</h4>
       <p><strong>Best for:</strong> Suction-based airway clearance</p>
       <p><strong>Use when:</strong> Heimlich fails or not possible</p>
-      <a href="https://www.amazon.com/s?k=LifeVac+Anti+Choking+Device+Home&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon</a>
+      <a href="https://www.amazon.com/s?k=LifeVac+Anti+Choking+Device+Home&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon</a>
     </div>
   </div>
   <div class="product-card">
@@ -188,7 +186,7 @@ If you are alone and choking and cannot call for help:
       <h4>Dechoker Anti-Choking Device</h4>
       <p><strong>Best for:</strong> Homes with young children or elderly</p>
       <p><strong>Use when:</strong> Cannot perform Heimlich</p>
-      <a href="https://www.amazon.com/s?k=Dechoker+Anti+Choking+Device+Adult&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon</a>
+      <a href="https://www.amazon.com/s?k=Dechoker+Anti+Choking+Device+Adult&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon</a>
     </div>
   </div>
   <div class="product-card">
@@ -197,7 +195,7 @@ If you are alone and choking and cannot call for help:
       <h4>Primedic CPR Face Shield</h4>
       <p><strong>Best for:</strong> Post-choking CPR if needed</p>
       <p><strong>Includes:</strong> One-way valve, gloves</p>
-      <a href="https://www.amazon.com/s?k=CPR+Face+Shield+Pocket+Mask+Resuscitation&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon</a>
+      <a href="https://www.amazon.com/s?k=CPR+Face+Shield+Pocket+Mask+Resuscitation&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon</a>
     </div>
   </div>
   <div class="product-card">
@@ -206,7 +204,7 @@ If you are alone and choking and cannot call for help:
       <h4>St John First Aid Handbook</h4>
       <p><strong>Best for:</strong> Comprehensive reference guide</p>
       <p><strong>Covers:</strong> All emergency scenarios</p>
-      <a href="https://www.amazon.com/s?k=St+John+First+Aid+Handbook+Manual&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon</a>
+      <a href="https://www.amazon.com/s?k=St+John+First+Aid+Handbook+Manual&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon</a>
     </div>
   </div>
   <div class="product-card">
@@ -215,7 +213,7 @@ If you are alone and choking and cannot call for help:
       <h4>First Aid Only Complete First Aid Kit</h4>
       <p><strong>Best for:</strong> Home emergency preparedness</p>
       <p><strong>Includes:</strong> 299 pieces, guide included</p>
-      <a href="https://www.amazon.com/s?k=First+Aid+Only+Complete+First+Aid+Kit+Home&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon</a>
+      <a href="https://www.amazon.com/s?k=First+Aid+Only+Complete+First+Aid+Kit+Home&tag=firstaidkitspot-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon</a>
     </div>
   </div>
 </div>
@@ -248,7 +246,7 @@ Self-abdominal thrusts or lean over a chair/counter edge for compression. Call e
 
 For related first aid skills, see our guides on [what every first aid kit should contain](/what-every-first-aid-kit-should-contain), [CPR guide for adults](/cpr-guide-adults-step-by-step), and [best first aid kits for home](/best-first-aid-kits-for-home).
 
-*Sarah Mitchell is a certified first aid instructor with 8 years of experience training community and workplace first responders.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 

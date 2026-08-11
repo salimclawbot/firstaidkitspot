@@ -1,4 +1,29 @@
-export const metadata = { title: "Privacy Policy", alternates: { canonical: "https://firstaidkitspot.com/privacy" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = { title: "Privacy Policy",
+  description: "First Aid Kit Spot explains how browsing data, analytics events, and contact details are collected and protected. Learn how we manage privacy and user controls.",
+  alternates: { canonical: "https://firstaidkitspot.com/privacy" },
+  openGraph: {
+    title: "Privacy Policy",
+    description: "First Aid Kit Spot explains how browsing data, analytics events, and contact details are collected and protected. Learn how we manage privacy and user controls.",
+    url: "https://firstaidkitspot.com/privacy",
+    siteName: "First Aid Kit Spot",
+    type: "website",
+    images: [
+      {
+        url: "https://firstaidkitspot.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy",
+    description: "First Aid Kit Spot explains how browsing data, analytics events, and contact details are collected and protected. Learn how we manage privacy and user controls.",
+    images: ["https://firstaidkitspot.com/editorial-hero.png"],
+  }};
 
 export default function PrivacyPage() {
   return (

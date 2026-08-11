@@ -76,7 +76,7 @@ The American Red Cross Deluxe Family First Aid Kit sits at the top of our list f
 
 **Why parents love it**: The Red Cross has decades of first aid education experience, and that expertise shows in how this kit is assembled. Everything is organised into clear compartments, making it fast to find what you need in an emergency. The included first aid guide is written for non-medical caregivers, with step-by-step instructions for common childhood injuries.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B00B1E3V6W?tag=theforge05-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com.au/dp/B00B1E3V6W?tag=doublefury-22)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B00B1E3V6W?tag=firstaidkitspot-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com/dp/B00B1E3V6W?tag=firstaidkitspot-20)
 
 **Pros:**
 - Comprehensive 200+ piece collection
@@ -102,7 +102,7 @@ At roughly half the price of comparable kits, the Swiss Safe 2-in-1 First Aid Ki
 
 **Why parents love it**: This kit punches well above its weight in terms of value. The 2-in-1 design means you get a compact kit for outings plus an expanded kit for home use. The supplies are FDA registered and manufactured in an ISO-certified facility.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B00XL4T5S2?tag=theforge05-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com.au/dp/B00XL4T5S2?tag=doublefury-22)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B00XL4T5S2?tag=firstaidkitspot-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com/dp/B00XL4T5S2?tag=firstaidkitspot-20)
 
 **Pros:**
 - Outstanding value for money
@@ -127,7 +127,7 @@ Designed for up to 50 people, the First Aid Only FA50-0100 is the go-to choice f
 
 **Why parents love it**: If you're running a childcare environment — whether a family daycare or an after-school programme — this kit checks the regulatory boxes while still being practical for paediatric use. The quantity of supplies means less frequent restocking, and the ANSI compliance is reassuring for parents asking about your emergency preparedness.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B000V72AYY?tag=theforge05-20) | **Amazon AU**: [Check locally](https://www.amazon.com.au)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B000V72AYY?tag=firstaidkitspot-20) | **Amazon AU**: [Check locally](https://www.amazon.com)
 
 **Pros:**
 - OSHA and ANSI compliant for commercial childcare settings
@@ -154,7 +154,7 @@ The Tender Self Administered kit is designed specifically with paediatric first 
 
 **Why parents love it**: The paediatric focus means this kit doesn't waste budget on adult-oriented supplies that aren't relevant for the home with kids. The inclusion of child-specific pulse oximetry and temperature monitoring gives parents clinical-grade tools in an accessible format.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B07BJL3K5M?tag=theforge05-20) | **Amazon AU**: [Check locally](https://www.amazon.com.au)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B07BJL3K5M?tag=firstaidkitspot-20) | **Amazon AU**: [Check locally](https://www.amazon.com)
 
 **Pros:**
 - Genuinely designed for paediatric use, not a repurposed adult kit
@@ -179,7 +179,7 @@ For families on the move, the Live Guard Kids Emergency Survival Kit combines fi
 
 **Why parents love it**: This kit doesn't just handle boo-boos — it prepares for genuine outdoor emergencies. If your family hikes, camps, or travels to remote areas, this kit bridges the gap between basic first aid and genuine emergency preparedness. The rugged water-resistant case stands up to real outdoor use.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B07MHZL3XN?tag=theforge05-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com.au/dp/B07MHZL3XN?tag=doublefury-22)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B07MHZL3XN?tag=firstaidkitspot-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com/dp/B07MHZL3XN?tag=firstaidkitspot-20)
 
 **Pros:**
 - Excellent for travel, hiking, and outdoor family activities
@@ -204,7 +204,7 @@ The Be Smart Get Prepared kit is a no-frills, ANSI-compliant option that covers 
 
 **Why parents love it**: Sometimes you need a second or third kit without the premium price tag. This kit delivers ANSI-standard compliant basics at a price that makes it sensible to keep one in every vehicle and bathroom. The clear internal pockets make it easy to see what you have.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B00MBICXG2?tag=theforge05-20) | **Amazon AU**: [Check locally](https://www.amazon.com.au)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B00MBICXG2?tag=firstaidkitspot-20) | **Amazon AU**: [Check locally](https://www.amazon.com)
 
 **Pros:**
 - Excellent budget price — practical for multiple kit placement
@@ -230,7 +230,7 @@ The PROTATCH Kids First Aid Kit is a premium option that prioritises organisatio
 
 **Why parents love it**: This is the kit that parents who have taken a Paediatric First Aid CPR course will appreciate most. The inclusion of a paediatric CPR breathing barrier, combined with higher-quality wound care supplies, makes this kit suitable for families who want to be genuinely prepared for more serious childhood emergencies, not just cuts and scrapes.
 
-**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B08T6O3XYZ?tag=theforge05-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com.au/dp/B08T6O3XYZ?tag=doublefury-22)
+**Amazon US**: [View on Amazon](https://www.amazon.com/dp/B08T6O3XYZ?tag=firstaidkitspot-20) | **Amazon AU**: [View on Amazon](https://www.amazon.com/dp/B08T6O3XYZ?tag=firstaidkitspot-20)
 
 **Pros:**
 - 300+ pieces of high-quality supplies
@@ -275,15 +275,15 @@ We cross-referenced our assessment against guidance from the American Red Cross,
 
 | Product | Pieces | Best For | Paediatric Focus | Price Range | FDA Registered | Amazon US Link |
 |---------|--------|----------|-----------------|-------------|----------------|----------------|
-| Red Cross Deluxe Family Kit | 200+ | Best Overall | High | $$ | Yes | [Buy Now](https://www.amazon.com/dp/B00B1E3V6W?tag=theforge05-20) |
-| Swiss Safe 2-in-1 | 100 | Best Value | Medium | $ | Yes | [Buy Now](https://www.amazon.com/dp/B00XL4T5S2?tag=theforge05-20) |
-| First Aid Only FA50-0100 | 450 | Daycare / Groups | Medium | $$$ | Yes | [Buy Now](https://www.amazon.com/dp/B000V72AYY?tag=theforge05-20) |
-| Tender Self Administered | 80+ | Paediatric-Specific | Very High | $$ | Yes | [Buy Now](https://www.amazon.com/dp/B07BJL3K5M?tag=theforge05-20) |
-| Live Guard Kids Emergency | 150+ | Travel / Outdoor | Medium | $$ | Yes | [Buy Now](https://www.amazon.com/dp/B07MHZL3XN?tag=theforge05-20) |
-| Be Smart Get Prepared | 109 | Budget / Secondary | Low | $ | Yes | [Buy Now](https://www.amazon.com/dp/B00MBICXG2?tag=theforge05-20) |
-| PROTATCH Premium | 300+ | Premium / Preparedness | High | $$$ | Yes | [Buy Now](https://www.amazon.com/dp/B08T6O3XYZ?tag=theforge05-20) |
+| Red Cross Deluxe Family Kit | 200+ | Best Overall | High | $$ | Yes | [Buy Now](https://www.amazon.com/dp/B00B1E3V6W?tag=firstaidkitspot-20) |
+| Swiss Safe 2-in-1 | 100 | Best Value | Medium | $ | Yes | [Buy Now](https://www.amazon.com/dp/B00XL4T5S2?tag=firstaidkitspot-20) |
+| First Aid Only FA50-0100 | 450 | Daycare / Groups | Medium | $$$ | Yes | [Buy Now](https://www.amazon.com/dp/B000V72AYY?tag=firstaidkitspot-20) |
+| Tender Self Administered | 80+ | Paediatric-Specific | Very High | $$ | Yes | [Buy Now](https://www.amazon.com/dp/B07BJL3K5M?tag=firstaidkitspot-20) |
+| Live Guard Kids Emergency | 150+ | Travel / Outdoor | Medium | $$ | Yes | [Buy Now](https://www.amazon.com/dp/B07MHZL3XN?tag=firstaidkitspot-20) |
+| Be Smart Get Prepared | 109 | Budget / Secondary | Low | $ | Yes | [Buy Now](https://www.amazon.com/dp/B00MBICXG2?tag=firstaidkitspot-20) |
+| PROTATCH Premium | 300+ | Premium / Preparedness | High | $$$ | Yes | [Buy Now](https://www.amazon.com/dp/B08T6O3XYZ?tag=firstaidkitspot-20) |
 
-*Prices and availability accurate as of April 2026. Amazon links use affiliate tag theforge05-20 (US) and doublefury-22 (AU).*
+*Prices and availability accurate as of April 2026. Amazon links use affiliate tag firstaidkitspot-20 (US) and firstaidkitspot-20 (AU).*
 
 ---
 

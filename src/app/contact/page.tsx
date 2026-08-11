@@ -1,4 +1,30 @@
-export const metadata = { title: "Contact", alternates: { canonical: "https://firstaidkitspot.com/contact" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Contact",
+  description: "First Aid Kit Spot is here to help with buying guidance, content requests, and practical affiliate support updates.",
+  alternates: { canonical: "https://firstaidkitspot.com/contact" },
+  openGraph: {
+    title: "Contact",
+    description: "First Aid Kit Spot is here to help with buying guidance, content requests, and practical affiliate support updates.",
+    url: "https://firstaidkitspot.com/contact",
+    siteName: "First Aid Kit Spot",
+    type: "website",
+    images: [
+      {
+        url: "https://firstaidkitspot.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Contact",
+    description: "First Aid Kit Spot is here to help with buying guidance, content requests, and practical affiliate support updates.",
+    images: ["https://firstaidkitspot.com/editorial-hero.png"],
+  },
+};
 
 export default function ContactPage() {
   return (
