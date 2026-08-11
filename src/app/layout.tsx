@@ -9,6 +9,13 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: { default: "First Aid Kit Spot — Best First Aid Kits & Supplies (2026)", template: "%s | First Aid Kit Spot" },
   description: "Research-informed first aid kits for home, car and outdoor use in 2026. Find the best emergency kit with our detailed buyer guides, checklists and comparisons.",
+  keywords: ["first aid kits","emergency preparedness","travel first aid","home first aid supplies","first aid kit guides"],
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
+  },
+
   metadataBase: new URL("https://firstaidkitspot.com"),
   alternates: { canonical: "https://firstaidkitspot.com" },
   openGraph: {

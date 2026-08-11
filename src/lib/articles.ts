@@ -1,4 +1,5 @@
 import { safeMatter } from "@/lib/safe-matter";
+import { normalizeArticleHeadings, resolveArticleDescription, resolveArticleTitle } from "@/lib/article-copy";
 import fs from "fs";
 import path from "path";
 
@@ -23,8 +24,8 @@ export function getArticleBySlug(slug: string): Article | null {
 
     return {
       slug,
-      title: String(data.title || slug),
-      description: String(data.description || `${slug.replace(/-/g, " ")} first aid guide.`),
+      title: resolveArticleTitle(data.title, slug),
+      description: resolveArticleDescription(data.description || data.meta_description, markdown, resolveArticleTitle(data.title, slug)),
       author: "First Aid Kit Spot Editorial Team",
       publishedAt: String(data.publishedAt || data.datePublished || "2026-01-01"),
       image: String(data.image || "/editorial-hero.png"),
