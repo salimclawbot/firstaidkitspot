@@ -42,10 +42,10 @@ function TableOfContents({ items }: { items: TocItem[] }) {
 
 function InternalLinks() {
   const links = [
-    { href: "/guides/first-aid-kit-buying-guide", label: "How to choose the best first-aid kit" },
-    { href: "/guides/first-aid-diy-fundamentals", label: "First Aid Basics for New Parents" },
-    { href: "/guides/travel-first-aid-kit", label: "Travel first-aid kit essentials" },
-    { href: "/guides/pet-first-aid-fundamentals", label: "Pet-safe home first aid setup" },
+    { href: "/first-aid-kit-checklist-2026", label: "How to choose the best first-aid kit" },
+    { href: "/what-every-first-aid-kit-should-contain", label: "First Aid Basics for New Parents" },
+    { href: "/best-first-aid-kit-for-car", label: "Travel first-aid kit essentials" },
+    { href: "/best-first-aid-kits-for-home", label: "Home first aid setup" },
   ];
 
   return (
