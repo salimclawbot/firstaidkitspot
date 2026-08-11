@@ -34,7 +34,7 @@ export default function HomePage() {
   const articles = slugs.map(s => getArticleBySlug(s)).filter(Boolean);
 
   return (
-    <main className="max-w-4xl mx-auto px-4 py-12">
+    <div className="max-w-4xl mx-auto px-4 py-12">
       <img 
         src="/editorial-hero.png" 
         alt="Best first aid kits 2026 - expert tested picks" 
@@ -64,6 +64,6 @@ export default function HomePage() {
           ]
         })}}
       />
-    </main>
+    </div>
   );
 }

@@ -37,7 +37,7 @@ export function getAmazonProductGroup(slug: string): AmazonProductGroup | null {
   const exact = groups[slug];
   if (exact) return exact;
 
-  const allowed = /(best-first-aid-kit|first-aid-kit-checklist|what-every-first-aid-kit-should-contain|first-aid-kids)/i.test(slug);
+  const allowed = /(first-aid-kit|first-aid-kits|first-aid-kids|what-every-first-aid-kit-should-contain)/i.test(slug);
   const denied = /(cpr|choking|burn|allergic|head-injur|snake|heimlich|treat)/i.test(slug);
   if (!allowed || denied) return null;
 

@@ -20,7 +20,8 @@ export default function Footer() {
           <p className="font-semibold text-slate-900">Contact</p>
           <p className="mt-2">hello@firstaidkitspot.com</p>
           <ul className="mt-2 space-y-1">
-            <li><Link href="/privacy-policy" className="hover:text-red-700">Privacy Policy</Link></li>
+            <li><Link href="/contact" className="hover:text-red-700">Contact</Link></li>
+            <li><Link href="/privacy" className="hover:text-red-700">Privacy Policy</Link></li>
             <li><Link href="/affiliate-disclosure" className="hover:text-red-700">Affiliate Disclosure</Link></li>
             <li><Link href="/about" className="hover:text-red-700">About</Link></li>
           </ul>
