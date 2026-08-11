@@ -17,6 +17,7 @@ import {
   type TocItem,
 } from "@/lib/article-page-utils";
 import { getArticleBySlug, getAllSlugs } from "@/lib/articles";
+import { getArticleVisual } from "@/lib/article-visuals";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -120,6 +121,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const title = normalizeMetaTitle(article.title);
   const description = normalizeMetaDescription(article.description);
+  const visual = getArticleVisual(article.slug, title);
   return {
     title,
     description,
@@ -129,7 +131,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title,
       description,
       url: `https://firstaidkitspot.com/${article.slug}`,
-      images: [{ url: "https://firstaidkitspot.com/editorial-hero.png", width: 1536, height: 864, alt: title }],
+      images: [{ url: `https://firstaidkitspot.com${visual.src}`, width: 1536, height: 1024, alt: visual.alt }],
       type: "article",
       siteName: "First Aid Kit Spot",
     },
@@ -137,7 +139,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       card: "summary_large_image",
       title,
       description,
-      images: ["https://firstaidkitspot.com/editorial-hero.png"],
+      images: [`https://firstaidkitspot.com${visual.src}`],
     },
   };
 }
@@ -149,6 +151,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
   const title = normalizeMetaTitle(article.title);
   const description = normalizeMetaDescription(article.description);
+  const visual = getArticleVisual(article.slug, title);
 
   const { contentWithoutSchemas } = extractAndStripSchema(article.content);
   const processed = await remark().use(remarkGfm).use(html, { sanitize: false }).process(contentWithoutSchemas);
@@ -168,7 +171,7 @@ export default async function ArticlePage({ params }: PageProps) {
       <h1 className="mt-2 text-3xl sm:text-4xl font-extrabold text-slate-900">{article.title}</h1>
       <p className="mt-3 text-slate-600">By First Aid Kit Spot Editorial Team • Published {article.publishedAt}</p>
       <figure className="my-7 overflow-hidden rounded-2xl border border-slate-200 bg-slate-50 shadow-sm">
-        <img src="/editorial-hero.png" alt={article.title} className="aspect-[16/9] w-full object-cover" width="1536" height="864" fetchPriority="high" />
+        <img src={visual.src} alt={visual.alt} className="aspect-[16/9] w-full object-cover" width="1536" height="1024" fetchPriority="high" />
       </figure>
       <AffiliateDisclosureNotice />
 
