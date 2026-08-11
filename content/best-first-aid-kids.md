@@ -324,7 +324,7 @@ Adult first aid kits can be used for children but are not ideal. Children's band
 
 6. **Price Comparison** — Prices were verified against current listings on Amazon.com.au and Amazon.com as of April 2026. Prices fluctuate; we confirm ranges rather than exact figures.
 
-**Related reading:** If you are building your home emergency preparedness setup, our guide to [home first aid kit essentials](/home-first-aid-kit-essentials) covers the 20 items every household should have, and our [first aid kit checklist for new parents](/first-aid-kit-checklist-new-parents) provides a printable checklist specifically designed for families with babies under 12 months. For travel-specific preparedness, see our [best first aid kits for cars](/best-first-aid-kits-for-cars).
+**Related reading:** If you are building your home emergency preparedness setup, our guide to [home first aid kit essentials](/best-first-aid-kits-for-home) covers the 20 items every household should have, and our [first aid kit checklist for new parents](/first-aid-kit-checklist-2026) provides a printable checklist specifically designed for families with babies under 12 months. For travel-specific preparedness, see our [best first aid kits for cars](/best-first-aid-kit-for-car).
 
 For cross-network reference, if your child suffers a fall resulting in back pain, our sister site has guidance on identifying serious spinal injuries versus minor bruising that applies to paediatric falls too.
 
@@ -337,4 +337,4 @@ By First Aid Kit Spot Editorial Team
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-*Related: [First Aid Kit Spot](/) · [Best First Aid Kits for Cars](/best-first-aid-kits-for-cars) · [Home First Aid Kit Essentials](/home-first-aid-kit-essentials)*
+*Related: [First Aid Kit Spot](/) · [Best First Aid Kits for Cars](/best-first-aid-kit-for-car) · [Home First Aid Kit Essentials](/best-first-aid-kits-for-home)*

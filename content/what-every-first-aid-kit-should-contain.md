@@ -87,7 +87,7 @@ Whether you are building a first aid kit from scratch or auditing one that has b
 
 That is over 40 items across four categories. If you already have a kit at home, pull it out and compare it against this list. Most people discover that they are missing at least five items — and the ones they have are often expired.
 
-For a detailed look at the best pre-built options, see our [complete review of best home first aid kits](/best-first-aid-kits-kids).
+For a detailed look at the best pre-built options, see our [complete review of best home first aid kits](/best-first-aid-kits-for-kids-2026).
 
 ---
 
@@ -169,7 +169,7 @@ The Surviveware kit is the gold standard for organization. Labeled inner compart
 
 ![Comparison infographic showing basic vs comprehensive first aid kit contents side by side](/images/articles/what-every-first-aid-kit-should-contain-comparison-infographic.jpg)
 
-If your vehicle also needs a kit, check out our guide to the [best first aid kit for your car](/best-first-aid-kits-kids). Car kits have different requirements — heat resistance, compact storage, and roadside emergency extras.
+If your vehicle also needs a kit, check out our guide to the [best first aid kit for your car](/best-first-aid-kits-for-kids-2026). Car kits have different requirements — heat resistance, compact storage, and roadside emergency extras.
 
 ---
 
