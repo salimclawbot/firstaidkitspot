@@ -7,8 +7,6 @@ author: "First Aid Kit Spot Editorial Team"
 image: "/images/articles/cpr-guide-hero.png"
 ---
 
-# CPR Guide for Adults: Step-by-Step (2026)
-
 **CPR (cardiopulmonary resuscitation) for adults involves calling 911, placing the heel of your hand on the center of the chest, pushing hard and fast at a rate of 100-120 compressions per minute at a depth of at least 2 inches, and delivering rescue breaths at a ratio of 30 compressions to 2 breaths. Hands-only CPR (compressions without breaths) is recommended for untrained bystanders.**
 
 *This article contains affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you. This helps us keep creating free, life-saving educational content. See our full [affiliate disclosure](/affiliate-disclosure).*

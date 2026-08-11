@@ -7,8 +7,6 @@ author: "First Aid Kit Spot Editorial Team"
 image: "/images/first-aid-kit-checklist-2026-hero.jpg"
 ---
 
-# What Every First Aid Kit Should Contain (Checklist 2026)
-
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/first-aid-kit-checklist-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/first-aid-kit-checklist-2026-demo.mp4" type="video/mp4">
 </video>

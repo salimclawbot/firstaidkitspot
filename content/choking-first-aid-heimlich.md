@@ -12,8 +12,6 @@ category: "First Aid"
 
 **IMPORTANT: This guide is for educational purposes. Always call emergency services (000 in Australia, 999 in UK, 911 in USA) when someone is choking severely. First aid knowledge supplements -- but does not replace -- professional emergency care.**
 
-# Choking First Aid: How to Perform the Heimlich Manoeuvre
-
 **By Sarah Mitchell, First Aid Instructor** | Last updated March 2026
 
 **Choking kills approximately 4,500 people annually in Australia and the UK combined. The vast majority of choking deaths are preventable with prompt, correct first aid. Knowing how to perform the Heimlich manoeuvre (abdominal thrusts) and the correct infant technique could save a life -- possibly today. This guide provides the complete, evidence-based protocol.**

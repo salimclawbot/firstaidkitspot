@@ -17,8 +17,6 @@ og_site_name: "First Aid Kit Spot"
 twitter_card: "summary_large_image"
 ---
 
-# Best First Aid Kits for Kids in 2026 – Complete Buyer's Guide
-
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---

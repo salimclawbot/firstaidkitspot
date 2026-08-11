@@ -1,7 +1,5 @@
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-# Best First Aid Kits for Home (2026): Fully Stocked Picks Tested by First Responders
-
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ![A fully stocked first aid kit open on a kitchen counter showing organized compartments with bandages, gauze, antiseptic, and medical tools](/images/best-home-first-aid-kit-open.jpg)
