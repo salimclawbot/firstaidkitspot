@@ -4,6 +4,7 @@ import fs from "fs";
 import path from "path";
 
 const contentDirectory = path.join(process.cwd(), "content");
+const redirectedSlugs = new Set(["what-every-first-aid-kit-should-contain"]);
 
 export interface Article {
   slug: string;
@@ -41,7 +42,7 @@ export function getAllArticles(): Article[] {
   try {
     const files = fs.readdirSync(contentDirectory);
     const articles = files
-      .filter((file) => file.endsWith(".md"))
+      .filter((file) => file.endsWith(".md") && !redirectedSlugs.has(file.replace(/\.md$/, "")))
       .map((file) => {
         const slug = file.replace(".md", "");
         const article = getArticleBySlug(slug);
@@ -64,7 +65,7 @@ export function getAllSlugs(): string[] {
   try {
     const files = fs.readdirSync(contentDirectory);
     return files
-      .filter((file) => file.endsWith(".md"))
+      .filter((file) => file.endsWith(".md") && !redirectedSlugs.has(file.replace(/\.md$/, "")))
       .map((file) => file.replace(".md", ""));
   } catch (error) {
     return [];

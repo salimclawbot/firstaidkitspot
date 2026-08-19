@@ -102,14 +102,14 @@ function normalizeLinks(html: string): string {
       if (/(^|\.)amazon\./i.test(host)) {
         if (!portfolioSite.commercialEnabled || !portfolioSite.partnerTag) return inner;
         parsed.searchParams.set("tag", portfolioSite.partnerTag);
-        return '<a' + (attributes ? " " + attributes : "") + ' href="' + parsed.toString() + '" target="_blank" rel="sponsored nofollow noopener">' + inner + "</a>";
+        return '<a' + (attributes ? " " + attributes : "") + ' href="' + parsed.toString() + '" target="_blank" rel="sponsored nofollow noopener noreferrer">' + inner + "</a>";
       }
 
       if (normalizedHost === selfHost) {
         return '<a' + (attributes ? " " + attributes : "") + ' href="' + parsed.pathname + parsed.search + parsed.hash + '">' + inner + "</a>";
       }
 
-      return '<a' + (attributes ? " " + attributes : "") + ' href="' + parsed.toString() + '" target="_blank" rel="nofollow noopener">' + inner + "</a>";
+      return '<a' + (attributes ? " " + attributes : "") + ' href="' + parsed.toString() + '" target="_blank" rel="nofollow noopener noreferrer">' + inner + "</a>";
     } catch {
       return '<a' + (attributes ? " " + attributes : "") + ' href="' + href + '">' + inner + "</a>";
     }
