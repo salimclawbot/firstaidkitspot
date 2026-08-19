@@ -64,11 +64,15 @@ async function accessToken() {
   const clientId = process.env.AMAZON_CREATORS_CLIENT_ID;
   const clientSecret = process.env.AMAZON_CREATORS_CLIENT_SECRET;
   if (!clientId || !clientSecret) throw new Error("Amazon Creators API is not configured");
-  const basic = Buffer.from(`${clientId}:${clientSecret}`).toString("base64");
-  const response = await fetchAmazon("https://api.amazon.com/auth/O2/token", {
+  const response = await fetchAmazon("https://api.amazon.com/auth/o2/token", {
     method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded", Authorization: `Basic ${basic}` },
-    body: "grant_type=client_credentials&scope=creatorsapi::default",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      grant_type: "client_credentials",
+      client_id: clientId,
+      client_secret: clientSecret,
+      scope: "creatorsapi::default",
+    }),
     cache: "no-store",
   });
   if (!response.ok) throw new Error("Amazon Creators API authentication failed");
