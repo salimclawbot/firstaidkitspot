@@ -104,7 +104,7 @@ function ProductRail({
                 <a
                   href={href}
                   target="_blank"
-                  rel="sponsored nofollow noopener"
+                  rel="sponsored nofollow noopener noreferrer"
                   data-affiliate-network="amazon"
                   data-affiliate-placement={placement}
                   data-affiliate-slug={slug}
