@@ -85,8 +85,6 @@ function headers(token: string) {
   return {
     Authorization: `Bearer ${token}`,
     "Content-Type": "application/json",
-    "Amazon-Advertising-API-ClientId": process.env.AMAZON_CREATORS_CLIENT_ID || "",
-    "Amazon-Advertising-API-Scope": process.env.AMAZON_CREATORS_MARKETPLACE || "US",
     "x-marketplace": "www.amazon.com",
   };
 }
