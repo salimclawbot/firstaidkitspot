@@ -102,11 +102,11 @@ function taggedProductUrl(rawUrl: string | undefined, asin: string): string {
   }
 }
 
-function present(item: AmazonApiItem, id = `API-${item.asin}`) {
+function present(item: AmazonApiItem, id = `API-${item.asin}`, safeTitle?: string) {
   return {
     id,
     asin: item.asin,
-    title: item.itemInfo?.title?.displayValue || "Amazon product listing",
+    title: safeTitle || item.itemInfo?.title?.displayValue || "Amazon product listing",
     url: taggedProductUrl(item.detailPageURL, item.asin),
     image: item.images?.primary?.large?.url || null,
     availability: item.offersV2?.listings?.[0]?.availability?.message || null,
@@ -175,7 +175,7 @@ export async function GET(request: NextRequest) {
       const apiItems = new Map<string, AmazonApiItem>((payload?.itemsResult?.items || []).map((item: AmazonApiItem) => [item.asin, item] as const));
       products = allowed.map((record) => {
         const item = apiItems.get(record.asin);
-        return item ? present(item, record.id) : {
+        return item ? present(item, record.id, record.label) : {
           id: record.id,
           asin: record.asin,
           title: record.label,

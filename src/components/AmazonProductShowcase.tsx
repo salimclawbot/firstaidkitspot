@@ -160,16 +160,17 @@ export default function AmazonProductShowcase({
   group: AmazonProductGroup | null;
   slug: string;
 }) {
+  const enabled = Boolean(group && group.showcase !== false);
   const fallbackProducts = useMemo(
-    () => ((group?.products || []) as unknown as DisplayProduct[]),
-    [group],
+    () => ((enabled ? group?.products || [] : []) as unknown as DisplayProduct[]),
+    [enabled, group],
   );
   const [products, setProducts] = useState<DisplayProduct[]>(fallbackProducts);
-  const [loading, setLoading] = useState(Boolean(group));
+  const [loading, setLoading] = useState(enabled);
   const [targets, setTargets] = useState<PortalTargets>({ middle: null, closing: null });
 
   useEffect(() => {
-    if (!group) {
+    if (!enabled || !group) {
       setLoading(false);
       return;
     }
@@ -182,10 +183,10 @@ export default function AmazonProductShowcase({
     return () => {
       active = false;
     };
-  }, [fallbackProducts, group, slug]);
+  }, [enabled, fallbackProducts, group, slug]);
 
   useEffect(() => {
-    if (!group) return;
+    if (!enabled || !group) return;
     const article = document.querySelector("main article, article");
     if (!(article instanceof HTMLElement)) return;
 
@@ -208,9 +209,9 @@ export default function AmazonProductShowcase({
       middle.remove();
       closing.remove();
     };
-  }, [group, slug]);
+  }, [enabled, group, slug]);
 
-  if (!group) return null;
+  if (!enabled || !group) return null;
   const railProps = { group, products, slug, loading };
 
   return (

@@ -9,6 +9,13 @@ const MAX_PLACEMENTS = 10;
 const BLOCKED_SECTION = /(\?|table of contents|frequently asked|sources|methodology|diagnos|red flag|emergenc|urgent|medicat|dosage|treatment|therapy|exercise|stretch|surgery|operation|post.?op|injection|recovery|when to see|doctor|clinician|symptom|warning|side effect|cure|pain|injury|safety|routine|pet first aid|training|joint|lubric|maintenance|motor ventilation|belt tension|alignment|surface and deck care|why .* (helps|matters))/i;
 const SAFE_SECTION = /(compar|criteria|choose|buying|\bvs\b|fit|size|dimension|weight|portab|material|foam|gel|support|feature|adjust|compatib|capacity|quality|quantity|storage|moisture|light|family|household|burr|blade|grind|brew|noise|step|verdict|hand|grip|button|sensitivity|wired|wireless|connection|schedule|template|planning|planner|record|curriculum|arch|heel cup|midsole|footwear|shoe|sandal|motor|belt|deck|space|fold|desk|surface)/i;
 const NUMBERED_CRITERIA = /^\d+\.\s*(portab|weight|size|fit|dimension|material|foam|gel|support|adjust|compatib|capacity|storage|arch|heel|midsole|noise|motor|belt|deck|grind|burr|brew|schedule|template)/i;
+const GOVERNED_FIRST_AID_SLUGS = new Set([
+  "camping-first-aid-kit-buying-guide",
+  "first-aid-kit-bag-organizer-guide",
+  "hiking-first-aid-kit-buying-guide",
+  "sports-team-first-aid-kit-organization",
+  "waterproof-first-aid-kit-guide",
+]);
 
 function sectionHeading(paragraph: HTMLParagraphElement, headings: HTMLHeadingElement[]): string {
   let current = "";
@@ -22,7 +29,7 @@ function sectionHeading(paragraph: HTMLParagraphElement, headings: HTMLHeadingEl
   return current;
 }
 
-function chooseParagraphs(article: HTMLElement): HTMLParagraphElement[] {
+function chooseParagraphs(article: HTMLElement, slug: string): HTMLParagraphElement[] {
   const headings = Array.from(article.querySelectorAll<HTMLHeadingElement>("h2, h3")).filter(
     (heading) => !heading.closest("aside, [data-amazon-carousel], [data-affiliate-boost]"),
   );
@@ -30,6 +37,7 @@ function chooseParagraphs(article: HTMLElement): HTMLParagraphElement[] {
     if ((paragraph.textContent || "").trim().length < 90) return false;
     if (paragraph.closest("aside, nav, header, footer, [data-amazon-carousel], [data-affiliate-boost], [data-no-affiliate]")) return false;
     const heading = sectionHeading(paragraph, headings);
+    if (GOVERNED_FIRST_AID_SLUGS.has(slug)) return /^Comparison criterion \d+:/i.test(heading);
     const numbered = /^\d+\.\s/.test(heading);
     return SAFE_SECTION.test(heading) && !BLOCKED_SECTION.test(heading) && (!numbered || NUMBERED_CRITERIA.test(heading));
   });
@@ -47,7 +55,7 @@ function chooseParagraphs(article: HTMLElement): HTMLParagraphElement[] {
   return selected;
 }
 
-function Placement({ href, slug, position }: { href: string; slug: string; position: number }) {
+function Placement({ href, slug, position, productId }: { href: string; slug: string; position: number; productId: string }) {
   const placementId = `contextual-amazon-${String(position + 1).padStart(2, "0")}`;
   return (
     <aside data-affiliate-boost={placementId} className="my-5 rounded-xl border border-amber-200 bg-amber-50/70 px-4 py-3 text-sm shadow-sm">
@@ -60,10 +68,10 @@ function Placement({ href, slug, position }: { href: string; slug: string; posit
           data-affiliate-link="amazon"
           data-affiliate-site={portfolioSite.domain}
           data-affiliate-page={slug}
-          data-product-id="category-discovery"
+          data-product-id={productId}
           data-placement-id={placementId}
           data-cta-position={`article-${position + 1}`}
-          data-destination-type="search"
+          data-destination-type="product"
           className="font-bold text-amber-800 underline decoration-2 underline-offset-4"
         >
           Compare on Amazon
@@ -75,10 +83,10 @@ function Placement({ href, slug, position }: { href: string; slug: string; posit
 
 export default function ContextualAmazonPlacements({ group, slug }: { group: AmazonProductGroup | null; slug: string }) {
   const [targets, setTargets] = useState<HTMLElement[]>([]);
-  const href =
-    group && portfolioSite.commercialEnabled && portfolioSite.partnerTag
-      ? `https://www.amazon.com/s?k=${encodeURIComponent(group.similarQuery)}&tag=${encodeURIComponent(portfolioSite.partnerTag)}`
-      : "";
+  const products = group?.products || [];
+  const href = products.length && portfolioSite.commercialEnabled && portfolioSite.partnerTag
+    ? `https://www.amazon.com/dp/${products[0].asin}?tag=${encodeURIComponent(portfolioSite.partnerTag)}`
+    : "";
 
   useEffect(() => {
     if (!href) return;
@@ -88,7 +96,7 @@ export default function ContextualAmazonPlacements({ group, slug }: { group: Ama
     const headings = Array.from(article.querySelectorAll<HTMLHeadingElement>("h2, h3")).filter(
       (heading) => !heading.closest("aside, [data-amazon-carousel], [data-affiliate-boost]"),
     );
-    const created = chooseParagraphs(article).map((paragraph, index) => {
+    const created = chooseParagraphs(article, slug).map((paragraph, index) => {
       const target = document.createElement("div");
       target.dataset.affiliateBoostAnchor = `${slug}-${index + 1}`;
       target.dataset.affiliateContextHeading = sectionHeading(paragraph, headings);
@@ -100,5 +108,9 @@ export default function ContextualAmazonPlacements({ group, slug }: { group: Ama
   }, [href, slug]);
 
   if (!href) return null;
-  return <>{targets.map((target, index) => createPortal(<Placement href={href} slug={slug} position={index} />, target, `${slug}-${index}`))}</>;
+  return <>{targets.map((target, index) => {
+    const product = products[index % products.length];
+    const productHref = `https://www.amazon.com/dp/${product.asin}?tag=${encodeURIComponent(portfolioSite.partnerTag)}`;
+    return createPortal(<Placement href={productHref} slug={slug} position={index} productId={product.id} />, target, `${slug}-${index}`);
+  })}</>;
 }

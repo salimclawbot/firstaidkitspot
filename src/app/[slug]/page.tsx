@@ -45,7 +45,7 @@ function TableOfContents({ items }: { items: TocItem[] }) {
 function InternalLinks() {
   const links = [
     { href: "/first-aid-kit-checklist-2026", label: "How to choose the best first-aid kit" },
-    { href: "/what-every-first-aid-kit-should-contain", label: "First Aid Basics for New Parents" },
+    { href: "/what-every-first-aid-kit-should-contain", label: "What every first-aid kit should contain" },
     { href: "/best-first-aid-kit-for-car", label: "Travel first-aid kit essentials" },
     { href: "/best-first-aid-kits-for-home", label: "Home first aid setup" },
   ];

@@ -1,5 +1,5 @@
 export type AmazonProductRecord = { id: string; asin: string; label: string };
-export type AmazonProductGroup = { heading: string; similarQuery: string; products: AmazonProductRecord[] };
+export type AmazonProductGroup = { heading: string; similarQuery: string; products: AmazonProductRecord[]; showcase?: boolean };
 
 export const allowedAmazonProducts: Record<string, AmazonProductRecord> = {
   "FA-PROD-MYMEDIC-SIDEKICK-RED-STANDARD": {
@@ -32,6 +32,26 @@ const groups: Record<string, AmazonProductGroup> = {
     ]
   }
 };
+
+const auditedKitProducts: AmazonProductRecord[] = [
+  allowedAmazonProducts["FA-PROD-MYMEDIC-SIDEKICK-RED-STANDARD"],
+  allowedAmazonProducts["FA-PROD-FAO-428"],
+];
+
+for (const slug of [
+  "camping-first-aid-kit-buying-guide",
+  "first-aid-kit-bag-organizer-guide",
+  "hiking-first-aid-kit-buying-guide",
+  "sports-team-first-aid-kit-organization",
+  "waterproof-first-aid-kit-guide",
+]) {
+  groups[slug] = {
+    heading: "Exact kit listings to compare against this guide",
+    similarQuery: "",
+    products: auditedKitProducts,
+    showcase: false,
+  };
+}
 
 export function getAmazonProductGroup(slug: string): AmazonProductGroup | null {
   const exact = groups[slug];
